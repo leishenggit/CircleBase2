@@ -1,0 +1,27 @@
+chr11	16835314	16835639	SRX22262944	505	mm10	TFs and others	Rela	Pancreas	Beta-TC-6
+chr11	16835316	16835646	SRX1098142	956	mm10	TFs and others	Pdx1	Pancreas	Beta-TC-6
+chr11	16835318	16835648	SRX22262937	420	mm10	TFs and others	Pdx1	Pancreas	Beta-TC-6
+chr11	16835320	16835581	SRX22262939	208	mm10	TFs and others	Pdx1	Pancreas	Beta-TC-6
+chr11	16835329	16835626	SRX22262956	292	mm10	TFs and others	Rela	Pancreas	Beta-TC-6
+chr11	16835332	16835577	SRX17781280	288	mm10	TFs and others	Pdx1	Pancreas	Beta-TC-6
+chr11	16835333	16835651	SRX22262938	435	mm10	TFs and others	Pdx1	Pancreas	Beta-TC-6
+chr11	16835342	16835659	SRX22262943	379	mm10	TFs and others	Rela	Pancreas	Beta-TC-6
+chr11	16835345	16835620	SRX22262951	187	mm10	TFs and others	Pdx1	Pancreas	Beta-TC-6
+chr11	16835348	16835564	SRX22262950	152	mm10	TFs and others	Pdx1	Pancreas	Beta-TC-6
+chr11	16835356	16835636	SRX22262945	280	mm10	TFs and others	Rela	Pancreas	Beta-TC-6
+chr11	16835366	16835589	SRX17781279	237	mm10	TFs and others	Pdx1	Pancreas	Beta-TC-6
+chr11	16835819	16836237	SRX8026864	1000	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr11	16835823	16836258	SRX6437841	730	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr11	16835836	16836287	SRX6437839	1000	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr11	16835841	16836248	SRX8026865	850	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr11	16835848	16836241	SRX8026866	1000	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr11	16835859	16836276	SRX8026867	930	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr11	16835896	16836117	SRX445035	147	mm10	TFs and others	Foxa2	Pancreas	Pancreatic beta cells
+chr11	16835925	16836195	SRX2853289	276	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr11	16835928	16836387	SRX22262940	146	mm10	TFs and others	Rela	Pancreas	Beta-TC-6
+chr11	16835944	16836140	SRX2853287	274	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr11	16835955	16836116	SRX2853288	200	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr11	16836008	16836308	SRX22262941	169	mm10	TFs and others	Rela	Pancreas	Beta-TC-6
+chr11	16836064	16836399	SRX6437850	461	mm10	TFs and others	Junb	Pancreas	Pancreatic adenocarcinoma
+chr11	16836126	16836374	SRX6437838	204	mm10	TFs and others	Fosl1	Pancreas	Pancreatic adenocarcinoma
+chr11	16837621	16838076	SRX6821910	560	mm10	TFs and others	Med1	Pancreas	MIN6

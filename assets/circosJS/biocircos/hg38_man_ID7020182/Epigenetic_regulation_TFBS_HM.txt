@@ -1,0 +1,15 @@
+chr7	55216392	55216563	Remap_0257	HIF1A	Basic domains	Cell Line	T-47D
+chr7	55216377	55216655	ChIP-Atlas_0843	STAT3	Immunoglobulin fold	Cell Line	MDA-MB-468
+chr7	55216365	55216516	ChIP-Atlas_0844	STAT3	Immunoglobulin fold	Cell Line	MDA-MB-468
+chr7	55216356	55216631	ChIP-Atlas_1144	PBX4	Helix-turn-helix domains	Cell Line	PC-3
+chr7	55216484	55216633	Cistrome_0520	AR	Zinc-coordinating DNA-binding domains	Cell Line	PC-3
+chr7	55216451	55216597	Cistrome_4225	NFIC	beta-Hairpin exposed by an alpha/beta-scaffold	Cell Line	ECC-1
+chr7	55216154	55217379	Cistrome_4538	ZEB1	Helix-turn-helix domains	Cell Line	H1975
+chr7	55216357	55216634	Cistrome_4620	STAT3	Immunoglobulin fold	Cell Line	HCC70
+chr7	55216369	55216599	Cistrome_4621	STAT3	Immunoglobulin fold	Cell Line	HCC70
+chr7	55216486	55216632	Cistrome_5193	AR	Zinc-coordinating DNA-binding domains	Cell Line	LHSAR
+chr7	55216398	55216626	Cistrome_5979	TTF1	Helix-turn-helix domains	Cell Line	NCI-H441
+chr7	55216381	55216576	Cistrome_6240	NFIC	beta-Hairpin exposed by an alpha/beta-scaffold	Cell Line	SK-N-SH
+chr7	55216394	55216613	Cistrome_6258	GATA3	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH
+chr7	55216426	55216572	Cistrome_6280	EP300	ENCODE: TF	Cell Line	SK-N-SH_RA
+chr7	55216609	55217064	Cistrome_6317	CEBPB	Basic domains	Cell Line	SUM159PT

@@ -1,0 +1,2 @@
+chr11	16851175	16851698	SRX681498	379	mm10	DNase-seq	DNase-Seq	Liver	Liver
+chr11	16851189	16851676	SRX681496	425	mm10	DNase-seq	DNase-Seq	Liver	Liver

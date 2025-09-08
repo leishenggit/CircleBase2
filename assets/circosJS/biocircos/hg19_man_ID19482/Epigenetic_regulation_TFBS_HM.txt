@@ -1,0 +1,16 @@
+chr1	244043241	244043477	ENCODE_0027	EZH2	TcoF: TF	Cell Line	HeLa-S3
+chr1	244043088	244043320	Cistrome_0171	SSRP1	Other all-alpha-helical DNA-binding domains	Cell Line	HT1080
+chr1	244043068	244043236	Cistrome_0174	SSRP1	Other all-alpha-helical DNA-binding domains	Cell Line	HT1080
+chr1	244043047	244043289	ENCODE_0541	YY1	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr1	244043261	244043612	Cistrome_2455	FLI1	Helix-turn-helix domains	Cell Line	A673
+chr1	244043192	244043714	Cistrome_2456	FLI1	Helix-turn-helix domains	Cell Line	A673
+chr1	244042979	244043135	Cistrome_0276	ASCL1	Basic domains	Other	fibroblasts
+chr1	244043643	244043791	Cistrome_0699	SPIB	Helix-turn-helix domains	Cell Line	OCI-Ly3
+chr1	244043730	244043879	Cistrome_0702	SPIB	Helix-turn-helix domains	Cell Line	OCI-Ly3
+chr1	244043951	244044097	Cistrome_4095	MITF	Basic domains	Cell Line	COLO-829
+chr1	244043295	244043489	Cistrome_4107	OTX2	Helix-turn-helix domains	Cell Line	D283_Med
+chr1	244043291	244043517	Cistrome_4109	OTX2	Helix-turn-helix domains	Cell Line	D283_Med
+chr1	244043292	244043482	Cistrome_4121	OTX2	Helix-turn-helix domains	Cell Line	D-341
+chr1	244043255	244043481	Cistrome_4123	OTX2	Helix-turn-helix domains	Cell Line	D-341
+chr1	244043660	244043935	Cistrome_5737	POLR2A	ENCODE: TF	Cell Line	MCF-10A
+chr1	244043112	244043328	Cistrome_6020	EZH2	TcoF: TF	Cell Line	NTKO

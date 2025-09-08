@@ -1,0 +1,1 @@
+chr1	244043020	244043020	C	A	12976	Control	WGS	Joon-Yong An et al. Science 2018	30545852

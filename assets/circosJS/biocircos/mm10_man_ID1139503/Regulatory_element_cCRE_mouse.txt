@@ -1,0 +1,3 @@
+chr9	83102192	83102518	Chromatin Accessible Only	EM10E1711990
+chr9	83102957	83103160	Chromatin Accessible Only	EM10E1711991
+chr9	83103827	83104175	Chromatin Accessible with TF	EM10E1711992

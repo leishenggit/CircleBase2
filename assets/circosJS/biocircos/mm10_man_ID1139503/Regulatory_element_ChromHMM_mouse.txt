@@ -1,0 +1,4 @@
+chr9	83101800	83102200	mOpenC	open chromatin
+chr9	83102200	83103800	mQuies	quiescent
+chr9	83103800	83104200	mEnhWk	weak enhancers
+chr9	83104200	83104400	mEnhWk	weak enhancers

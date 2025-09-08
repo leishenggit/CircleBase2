@@ -1,0 +1,1 @@
+rs11238340	chr7	55020736	T	C	5.49E-04	Aortic root size	/	/	21223598

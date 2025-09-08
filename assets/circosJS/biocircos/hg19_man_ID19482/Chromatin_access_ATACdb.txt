@@ -1,0 +1,2 @@
+0651	3903	chr1	244042215	244042658	443	160	7.15074	19.09903	16.05957	195	Stem Cell	Embryo	hES-to-Pancreatic endoderm cell	Normal
+0653	3195	chr1	244042250	244042594	344	112	6.04185	14.08217	11.23733	155	Stem Cell	Embryo	hES-to-Pancreatic endoderm cell	Normal

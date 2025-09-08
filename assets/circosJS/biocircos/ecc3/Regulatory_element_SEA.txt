@@ -1,0 +1,8 @@
+chr1	742477	759180	355151	hg19_CD14PM_chr1_807097	16703	CD14-positive_monocyte	-	-	FAM87B	h3k27ac	E	noncoding
+chr1	742569	756762	526750	hg19_Esophagus_chr1_807189	14193	Esophagus	-	-	FAM87B	h3k27ac	E	noncoding
+chr1	747823	757841	863215	hg19_K562_chr1_812443	10018	K562	-	-	FAM87B	h3k27ac	E	noncoding
+chr1	742430	756157	1387790	hg19_PP_chr1_807050	13727	Peyers_patch	-	-	FAM87B	h3k27ac	E	noncoding
+chr1	742269	756578	1529398	hg19_SC_chr1_806889	14309	Sigmoid_Colon	-	-	FAM87B	h3k27ac	E	noncoding
+chr1	741635	757291	1617412	hg19_SII_chr1_806255	15656	Small_Intestine_infant	-	-	FAM87B	h3k27ac	E	noncoding
+chr1	748391	755530	1748768	hg19_Thymus_chr1_813011	7139	Thymus	-	-	FAM87B	h3k27ac	E	noncoding
+chr1	746792	757559	2162838	hg19_SS_chr1_811412	10767	suprapubic_skin	-	-	FAM87B	p300	E	noncoding

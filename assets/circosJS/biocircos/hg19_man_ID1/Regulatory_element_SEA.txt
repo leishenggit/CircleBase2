@@ -1,0 +1,3 @@
+chr1	538960	542534	527280	hg19_Esophagus_chr1_603580	3574	Esophagus	-	-	LOC101928626	h3k27ac	E	noncoding
+chr1	523013	541860	1281987	hg19_Pancreas_chr1_587633	18847	Pancreas	-	-	LOC101928626	h3k27ac	E	noncoding
+chr1	539199	542229	1370814	hg19_PC-9_chr1_603819	3030	PC-9	-	-	LOC101928626	h3k27ac	E	noncoding

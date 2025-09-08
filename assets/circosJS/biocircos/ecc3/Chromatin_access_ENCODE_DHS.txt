@@ -1,0 +1,76 @@
+chr1	753375	753525	56	retina	tissue	
+chr1	753415	753565	142	fibroblast of mammary gland	primary cell	
+chr1	753348	753498	34	common myeloid progenitor, CD34-positive	primary cell	
+chr1	753415	753565	31	fibroblast of skin of upper back	primary cell	
+chr1	753375	753525	29	muscle of arm	tissue	
+chr1	753335	753485	68	body of pancreas	tissue	
+chr1	753355	753505	57	Peyer's patch	tissue	
+chr1	753335	753485	73	GM03348	cell line	
+chr1	753346	753496	43	CWRU1	cell line	
+chr1	753415	753565	39	cardiac muscle cell	primary cell	
+chr1	753355	753505	70	adrenal gland	tissue	
+chr1	753395	753545	60	Daoy	cell line	
+chr1	753415	753565	198	skeletal muscle myoblast	primary cell	
+chr1	753415	753565	42	right kidney	tissue	
+chr1	753335	753485	82	neural progenitor cell	in vitro differentiated cells	
+chr1	753415	753565	305	lung	tissue	
+chr1	753375	753525	156	tongue	tissue	
+chr1	753375	753525	48	iris pigment epithelial cell	primary cell	
+chr1	753395	753545	47	large intestine	tissue	
+chr1	753335	753485	63	C803	cell line	
+chr1	753395	753545	101	left lung	tissue	
+chr1	753495	753645	551	fibroblast of villous mesenchyme	primary cell	
+chr1	753475	753625	37	WI38	cell line	
+chr1	753415	753565	82	amniotic epithelial cell	primary cell	
+chr1	753415	753565	98	fibroblast of lung	primary cell	
+chr1	753395	753545	180	right leg bone	tissue	
+chr1	753415	753565	65	astrocyte	primary cell	
+chr1	753375	753525	71	uterus	tissue	
+chr1	753415	753565	73	fibroblast of dermis	primary cell	
+chr1	753355	753505	86	right arm bone	tissue	
+chr1	753335	753485	91	AG20443	cell line	
+chr1	753415	753565	60	kidney	tissue	
+chr1	753475	753625	76	cardiac fibroblast	primary cell	
+chr1	753335	753485	71	K562	cell line	
+chr1	753375	753525	127	muscle of trunk	tissue	
+chr1	753367	753517	18	osteoblast	primary cell	
+chr1	753355	753505	102	ascending aorta	tissue	
+chr1	753455	753605	246	fibroblast of peridontal ligament	primary cell	
+chr1	753395	753545	51	right lung	tissue	
+chr1	753475	753625	127	astrocyte of the spinal cord	primary cell	
+chr1	753375	753525	205	muscle of leg	tissue	
+chr1	753355	753505	188	astrocyte of the hippocampus	primary cell	
+chr1	753415	753565	201	choroid plexus epithelial cell	primary cell	
+chr1	753395	753545	72	eye	tissue	
+chr1	753415	753565	49	small intestine	tissue	
+chr1	753353	753503	72	fibroblast of gingiva	primary cell	
+chr1	753495	753645	466	mesenchymal stem cell	in vitro differentiated cells	
+chr1	753355	753505	53	esophagus muscularis mucosa	tissue	
+chr1	753375	753525	104	gastrocnemius medialis	tissue	
+chr1	753355	753505	115	GM03348	cell line	doxycycline
+chr1	753375	753525	166	femur	tissue	
+chr1	753475	753625	130	M059J	cell line	
+chr1	753375	753525	179	muscle of back	tissue	
+chr1	753355	753505	70	spinal cord	tissue	
+chr1	753361	753511	67	left leg bone	tissue	
+chr1	753355	753505	71	GM23338	cell line	
+chr1	753435	753585	49	astrocyte of the cerebellum	primary cell	
+chr1	753379	753529	24	AG08396	cell line	
+chr1	753415	753565	13	brain microvascular endothelial cell	primary cell	
+chr1	753341	753491	95	tibial artery	tissue	
+chr1	753435	753585	32	sigmoid colon	tissue	
+chr1	753375	753525	46	SK-MEL-5	cell line	
+chr1	753355	753505	41	hepatic stellate cell	primary cell	
+chr1	753455	753605	299	IMR-90	cell line	
+chr1	753375	753525	46	hindlimb muscle	tissue	
+chr1	753415	753565	97	fibroblast of the aortic adventitia	primary cell	
+chr1	753435	753585	63	AG04450	cell line	
+chr1	753355	753505	38	right atrium auricular region	tissue	
+chr1	753346	753496	36	omental fat pad	tissue	
+chr1	753415	753565	230	stomach	tissue	
+chr1	753344	753494	37	cerebellum	tissue	
+chr1	753390	753540	55	lung microvascular endothelial cell	primary cell	
+chr1	753355	753505	273	GM23248	cell line	
+chr1	753375	753525	63	AG10803	cell line	
+chr1	753355	753505	107	H7	cell line	
+chr1	753357	753507	79	hepatocyte	in vitro differentiated cells	

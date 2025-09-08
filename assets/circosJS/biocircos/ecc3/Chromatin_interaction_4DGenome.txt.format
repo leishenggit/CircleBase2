@@ -1,0 +1,7 @@
+source: Chromatin_interaction_4DGenome<br>coordinate: chr1:1044401-1046401---chr1:752092-754092	chr1	503796	505796	C1orf159,ENSG00000131591	chr1	211487	213487	ENST00000435300
+source: Chromatin_interaction_4DGenome<br>coordinate: chr1:712601-714601---chr1:751751-753751	chr1	171996	173996	NA	chr1	211146	213146	ENST00000326734
+source: Chromatin_interaction_4DGenome<br>coordinate: chr1:722801-724801---chr1:751751-753751	chr1	182196	184196	NA	chr1	211146	213146	ENST00000326734
+source: Chromatin_interaction_4DGenome<br>coordinate: chr1:724601-726601---chr1:751751-753751	chr1	183996	185996	NA	chr1	211146	213146	ENST00000326734
+source: Chromatin_interaction_4DGenome<br>coordinate: chr1:724601-726601---chr1:752092-754092	chr1	183996	185996	NA	chr1	211487	213487	ENST00000435300
+source: Chromatin_interaction_4DGenome<br>coordinate: chr1:724801-726801---chr1:751751-753751	chr1	184196	186196	NA	chr1	211146	213146	ENST00000326734
+source: Chromatin_interaction_4DGenome<br>coordinate: chr1:724801-726801---chr1:752092-754092	chr1	184196	186196	NA	chr1	211487	213487	ENST00000435300

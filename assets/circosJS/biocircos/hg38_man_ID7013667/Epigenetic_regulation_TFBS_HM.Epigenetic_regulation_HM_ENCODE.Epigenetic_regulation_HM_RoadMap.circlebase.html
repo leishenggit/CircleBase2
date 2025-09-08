@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>NGCircos</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <!-- NGCircos.js, Jquery.js and D3.js import -->
+        <script src="../lib/jquery.js"></script>
+        <script src="../lib/d3.js"></script>
+        <script src="../lib/NGCircos.js"></script>
+       <!-- Prepare a <div> tag with "NGCircos" id to set the picture position your will draw in html -->
+        <div class="svg-box img-container">
+        <button class="svg-action-btn download-img" style="height: 18px;line-height: 18px;padding: 0 11px;background: #FFFFFF;border: 1px #D9D9D9 solid;border-radius: 3px;display: inline-block;font-size: 12px;outline: none;">Download png ↓</button>
+        <a href="javascript:(function () { var e = document.createElement('script');if (window.location.protocol === 'https:') { e.setAttribute('src', '../lib/svg-crowbar.js'); } else { e.setAttribute('src', '../lib/svg-crowbar.js'); } e.setAttribute('class', 'svg-crowbar'); document.body.appendChild(e); })();" class="DownButtonNormal" >Download svg ↓</a>
+      </div>  
+        <div id="NGCircos"></div>
+<style>
+    .NGCircosSNPTooltip{  
+    position: absolute;
+    width: auto;  
+    height: auto;  
+    font-family: simsun;  
+    font-size: 20px;  
+    text-align: left;  
+    border-color: #6D6D6D; 
+    border-radius: 50px;  
+    }
+    .NGCircosLINKTooltip{  
+    text-align: center; 
+    }
+    a {color: #000000;TEXT-DECORATION: none}
+a:active {background: #AFC1DC}
+.DownButtonNormal{
+  height: 18px;
+  line-height: 18px;
+  padding: 0 11px;
+  background: #FFFFFF;
+  border: 1px #D9D9D9 solid;
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 12px;
+  outline: none;
+}
+</style>
+<script src='Epigenetic_regulation_TFBS_HM.Epigenetic_regulation_HM_ENCODE.Epigenetic_regulation_HM_RoadMap.circlebase.js'></script>
+<script>
+var NGCircosGenome = [[
+    ['chr7' , 109976]
+]];
+var my_scale = 2749
+
+var ARC_eccdna = [ 'ARC_eccdna' , {
+  innerRadius: 189,
+  outerRadius: 204
+} , [
+  {chr: 'chr7', start: '39033', end: '39814', color: 'red', des: 'eccDNA point', html:'name: hg38_man_ID7013667<br>coordinate: chr7:53138121-53138902'}
+]];
+
+
+NGCircos01 = new NGCircos(ARC_eccdna, Epigenetic_regulation_TFBS_HM,Epigenetic_regulation_HM_ENCODE,Epigenetic_regulation_HM_RoadMap, NGCircosGenome,{
+    //Customize SVG
+     target : 'NGCircos',
+     svgWidth : 800,
+     svgHeight : 600,
+    
+     svgClassName: 'circlebase',
+      //Customize genome
+      chrPad : 0.04,
+     innerRadius: 256,
+     outerRadius: 260,
+     genomeFillColor: ['#999999'],
+     genomeBorder : {
+       'display' : true,
+       'borderColor' : '#000',
+       'borderSize' : 0.5
+    },
+     
+     ticks : {
+        display : true,
+        len : 5,
+        color : '#000',
+        textSize : 8,
+        textColor : '#000',
+        scale : my_scale
+     },
+     genomeLabel : {
+      'display' : false,
+      'textSize' : 15,
+      'textColor' : '#000',
+      'dx' : 0.028,
+      'dy' : '-0.55em'
+    },
+   
+    //Customize Events ========
+    //zoom event
+    zoom : true,
+    
+     // Customize Events for ARC module
+    ARCMouseEvent : true,
+    ARCMouseClickDisplay : false,
+    ARCMouseDownDisplay : false,
+    ARCMouseEnterDisplay : false,
+    ARCMouseLeaveDisplay : false,
+    ARCMouseMoveDisplay: false,
+    ARCMouseUpDisplay: false,
+    
+    ARCMouseOutDisplay: true,
+    ARCMouseOutAnimationTime: 500,
+    ARCMouseOutColor: 'none',
+    ARCMouseOutArcOpacity: 1,
+    ARCMouseOutArcStrokeColor:  'none',
+    ARCMouseOutArcStrokeWidth: 0,
+    
+    ARCMouseOverDisplay : true,
+    ARCMouseOverTooltipsSetting: 'custom',
+    ARCMouseOverColor:'none',
+    ARCMouseOverArcOpacity:1.0,
+    ARCMouseOverArcStrokeColor: '#F26223',
+    ARCMouseOverArcStrokeWidth: 3,
+    
+    //Customize Events for LINK module
+    LINKMouseEvent: true,
+    LINKMouseClickDisplay: false,
+    LINKMouseDownDisplay: false,
+    LINKMouseEnterDisplay: false,
+    LINKMouseLeaveDisplay:false,
+    LINKMouseMoveDisplay:false,
+    LINKLabelDragEvent: false,
+    LINKMouseUpDisplay:false,
+
+    LINKMouseOverDisplay:true,
+    LINKMouseOverTooltipsSetting: 'custom',
+    LINKMouseOverStrokeColor: 'green',
+    LINKMouseOverOpacity: 1,
+    LINKMouseOverStrokeWidth: 3,
+    
+    LINKMouseOutDisplay:true,
+    LINKMouseOutAnimationTime: 500,
+    LINKMouseOutOpacity: 1,
+    LINKMouseOutStrokeColor: 'none',
+    LINKMouseOutStrokeWidth: 'none',
+    
+    //Customize Events for SNP module
+    SNPMouseEvent : true,
+    SNPMouseClickDisplay : false,
+    SNPMouseDownDisplay : false,
+    SNPMouseEnterDisplay : false,
+    SNPMouseLeaveDisplay : false,
+    SNPMouseMoveDisplay : false,
+    SNPMouseUpDisplay : false,
+
+    SNPMouseOutDisplay : true,
+    SNPMouseOutAnimationTime : 500,
+    SNPMouseOutColor : 'none',
+    SNPMouseOutCircleSize : 2,
+    SNPMouseOutCircleOpacity : 1.0,
+    SNPMouseOutCircleStrokeColor : 'red',
+    SNPMouseOutCircleStrokeWidth : 0,
+
+    SNPMouseOverDisplay : true,
+    SNPMouseOverTooltipsSetting :'custom',
+    SNPMouseOverColor : 'red',
+    SNPMouseOverCircleSize : 2,
+    SNPMouseOverCircleOpacity : 1.0,
+    SNPMouseOverCircleStrokeColor : '#F26223',
+    SNPMouseOverCircleStrokeWidth : 3,
+
+    //Customize Events for SCATTER module
+    SCATTERMouseOverDisplay: true,
+    SCATTERMouseOverTooltipsSetting :'custom',
+    SCATTERMouseOverColor: 'none',
+    SCATTERMouseOverCircleSize: 'none',
+    SCATTERMouseOverCircleOpacity: 1,
+    SCATTERMouseOverCircleStrokeColor: 'none',
+    SCATTERMouseOverCircleStrokeWidth: 0,
+    SCATTERMouseOutDisplay: true,
+    SCATTERMouseOutColor: 'none',
+    SCATTERMouseOutCircleSize: 'none',
+    SCATTERMouseOutCircleOpacity: 1,
+    SCATTERMouseOutCircleStrokeColor: 'none',
+    SCATTERMouseOutCircleStrokeWidth: 0,
+  });
+  
+  NGCircos01.draw_genome(NGCircos01.genomeLength);
+  NGCircos01.draw_genome(NGCircos01.genomeLength2); // NGCircos2.js callback second time
+  
+</script>
+
+<script src="../lib/saveSvgAsPng.js"></script>
+<script>
+      (function(){
+        var downloadImg = getEle(".download-img"),
+          imgName = getEle("."+NGCircos01.svgClassName);
+        
+        //          imgScale = getEle(".img-scale");
+
+        downloadImg.addEventListener("click",function(){
+          var mySvg = getEle("."+NGCircos01.svgClassName),
+            //iImgScale = parseInt(imgScale.value) || 1,
+            oImgName = imgName.value || NGCircos01.svgClassName;
+            
+//          saveSvgAsPng(mySvg, oImgName+".png", iImgScale);
+          saveSvgAsPng(mySvg, oImgName+".png");
+
+        })
+
+        function getEle(obj){
+          var d = document;
+          return d.querySelector(obj);
+        }
+      })()
+</script>
+</body>
+</html>

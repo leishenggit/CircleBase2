@@ -1,0 +1,1 @@
+237548	chr11	16758925	16878488	mm10_EF_chr11_16758925	119563	embryonic_fibroblast	-	-	Egfr	h3k27ac	SE	coding

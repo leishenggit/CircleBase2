@@ -1,0 +1,1 @@
+chr1	539359	539823	GTRD_0030	WT1	Zinc-coordinating DNA-binding domains	Cell Line	K562

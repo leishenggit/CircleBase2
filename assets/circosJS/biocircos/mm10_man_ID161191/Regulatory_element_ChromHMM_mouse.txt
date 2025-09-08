@@ -1,0 +1,2 @@
+chr11	16850600	16851200	mEnhWk	weak enhancers
+chr11	16851200	16851600	mOpenC	open chromatin

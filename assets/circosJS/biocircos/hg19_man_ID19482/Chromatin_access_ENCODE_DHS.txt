@@ -1,0 +1,12 @@
+chr1	244043267	244043417	19	fibroblast of lung	primary cell	
+chr1	244043495	244043645	56	fibroblast of lung	primary cell	
+chr1	244041735	244041885	93	PC-9	cell line	
+chr1	244042135	244042285	14	PC-9	cell line	
+chr1	244042285	244042435	13	PC-9	cell line	
+chr1	244042615	244042765	13	PC-9	cell line	
+chr1	244043273	244043423	16	KBM-7	cell line	
+chr1	244043423	244043573	17	KBM-7	cell line	
+chr1	244043399	244043549	22	astrocyte	primary cell	
+chr1	244042959	244043109	30	osteoblast	primary cell	
+chr1	244043416	244043566	49	astrocyte of the spinal cord	primary cell	
+chr1	244043135	244043285	44	GM12865	cell line	

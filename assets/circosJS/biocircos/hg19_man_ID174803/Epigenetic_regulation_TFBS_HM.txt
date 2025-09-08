@@ -1,0 +1,472 @@
+chr7	55212332	55212567	ChIP-Atlas_1005	RUNX1	Immunoglobulin fold	Cell Line	293
+chr7	55212378	55212524	Cistrome_0384	CREBBP	TcoF: TF	Cell Line	293
+chr7	55212049	55212350	ENCODE_0477	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr7	55212113	55212341	ENCODE_0478	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr7	55212157	55212298	Remap_0436	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	VCaP
+chr7	55212118	55212264	ENCODE_1625	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MM1S
+chr7	55212011	55212292	ENCODE_1626	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MM1S
+chr7	55212069	55212384	Cistrome_0133	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MM1S
+chr7	55212242	55212458	Cistrome_3336	ESR1	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55212292	55212527	Cistrome_3337	ESR1	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55212052	55212495	Cistrome_3338	ESR1	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55212031	55212549	Cistrome_3342	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55212061	55212538	Cistrome_3343	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55212076	55212356	Cistrome_3833	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55212060	55212345	Cistrome_3834	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55211902	55213284	GTRD_0024	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55211766	55213201	GTRD_0025	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55211820	55213450	GTRD_0027	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55212131	55212350	Remap_0257	HIF1A	Basic domains	Cell Line	T-47D
+chr7	55212396	55212542	Cistrome_2552	SP1	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212097	55212378	Cistrome_2558	MYC	Basic domains	Cell Line	HCT116
+chr7	55212221	55212383	Cistrome_2562	TCF7L1	Other all-alpha-helical DNA-binding domains	Cell Line	HCT116
+chr7	55212001	55212407	Cistrome_2648	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212079	55212415	Cistrome_2649	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212038	55212194	Cistrome_0233	MECP2	TcoF: TF	Cell Line	HCT116
+chr7	55212080	55212343	Cistrome_0347	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212057	55212389	Cistrome_0348	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212086	55212344	Cistrome_0349	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212103	55212321	Cistrome_0350	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212062	55212344	Cistrome_0351	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212057	55212327	Cistrome_0352	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212099	55212356	Cistrome_0353	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212324	55212555	Cistrome_1578	POLR2A	ENCODE: TF	Cell Line	HCT116
+chr7	55212320	55212479	Cistrome_1580	TRIM28	ENCODE: TF	Cell Line	HCT116
+chr7	55212080	55212343	ENCODE_0479	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212057	55212389	ENCODE_0480	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212103	55212285	ENCODE_0494	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr7	55212291	55212552	Cistrome_2762	RUNX1	Immunoglobulin fold	Cell Line	Jurkat
+chr7	55212203	55212401	Cistrome_5059	BCL6	Zinc-coordinating DNA-binding domains	Cell Line	Jurkat
+chr7	55212246	55212567	ChIP-Atlas_0831	TET2	TcoF: TF	Cell Line	Jurkat
+chr7	55212306	55212521	ChIP-Atlas_1004	TET2	TcoF: TF	Cell Line	Jurkat
+chr7	55212117	55212299	Remap_0180	GABPA	Helix-turn-helix domains	Cell Line	Jurkat
+chr7	55212087	55212330	Remap_0300	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	Jurkat
+chr7	55212094	55212261	Cistrome_3063	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212098	55212292	Cistrome_3140	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212133	55212279	Cistrome_3141	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212007	55212399	Cistrome_3142	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212064	55212402	Cistrome_3143	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212089	55212337	Cistrome_3144	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212099	55212319	Cistrome_3145	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212053	55212329	Cistrome_3146	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212115	55212306	Cistrome_3147	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55211986	55212334	Cistrome_3148	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212133	55212256	Cistrome_3149	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212069	55212384	Cistrome_3150	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212074	55212441	Cistrome_3151	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212103	55212319	Cistrome_3153	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212076	55212364	Cistrome_3154	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212033	55212393	Cistrome_3155	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212045	55212336	Cistrome_3158	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212072	55212408	Cistrome_3159	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212055	55212279	Cistrome_3160	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212045	55212550	Cistrome_3161	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212066	55212412	Cistrome_3162	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212051	55212458	Cistrome_3163	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212022	55212372	Cistrome_3164	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55211949	55212513	Cistrome_3165	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55211968	55212540	Cistrome_3166	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212047	55212293	Cistrome_0041	NR2F2	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212089	55212529	Cistrome_0201	KDM5B	Helix-turn-helix domains	Cell Line	MCF-7
+chr7	55212097	55212327	Cistrome_1485	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212070	55212340	Cistrome_1486	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212076	55212340	Cistrome_1487	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212105	55212299	Cistrome_1830	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212069	55212344	Cistrome_1831	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212096	55212340	Cistrome_1873	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212068	55212394	Cistrome_1874	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212105	55212299	Cistrome_1875	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212069	55212344	Cistrome_1876	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212083	55212294	Cistrome_1877	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212066	55212419	ENCODE_0215	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212090	55212356	ENCODE_0216	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212082	55212343	ENCODE_0219	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212134	55212287	ENCODE_0237	CEBPB	Basic domains	Cell Line	MCF-7
+chr7	55212105	55212273	ENCODE_0241	MYC	Basic domains	Cell Line	MCF-7
+chr7	55212063	55212511	ENCODE_0243	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212061	55212347	ENCODE_0244	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212055	55212383	ENCODE_0245	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212237	55212529	ENCODE_0246	POLR2A	ENCODE: TF	Cell Line	MCF-7
+chr7	55212165	55212526	ENCODE_0247	MYC	Basic domains	Cell Line	MCF-7
+chr7	55212052	55212505	ENCODE_0248	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212259	55212498	ENCODE_0249	POLR2A	ENCODE: TF	Cell Line	MCF-7
+chr7	55212106	55212500	ENCODE_0250	MYC	Basic domains	Cell Line	MCF-7
+chr7	55212056	55212486	ENCODE_0251	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212073	55212510	ENCODE_0252	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212063	55212369	ENCODE_0253	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212018	55212232	Remap_0011	TFAP2C	Basic domains	Cell Line	MCF-7
+chr7	55212259	55212467	Remap_0023	ERG	Helix-turn-helix domains	Cell Line	MCF-7
+chr7	55212018	55212232	Remap_0079	TFAP2C	Basic domains	Cell Line	MCF-7
+chr7	55212048	55212498	Remap_0391	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212029	55212506	Remap_0392	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55212097	55212338	ChIP-Atlas_0806	CTCF	Zinc-coordinating DNA-binding domains	Primary Cel	keratinocyte
+chr7	55212102	55212297	ChIP-Atlas_0808	CTCF	Zinc-coordinating DNA-binding domains	Primary Cel	keratinocyte
+chr7	55212315	55212462	Cistrome_0636	SNAI2	Zinc-coordinating DNA-binding domains	Primary Cel	keratinocyte
+chr7	55212044	55212232	Remap_0075	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr7	55212125	55212271	ENCODE_0626	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	Caco-2
+chr7	55212081	55212323	ENCODE_0627	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	Caco-2
+chr7	55212095	55212330	ENCODE_0628	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	BJ
+chr7	55212056	55212354	ENCODE_0629	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	BJ
+chr7	55212127	55212319	ChIP-Atlas_0902	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	U2OS
+chr7	55212213	55212497	ChIP-Atlas_1118	ZBTB48	Zinc-coordinating DNA-binding domains	Cell Line	U2OS
+chr7	55212160	55212577	ChIP-Atlas_1119	ZBTB48	Zinc-coordinating DNA-binding domains	Cell Line	U2OS
+chr7	55212144	55212666	ChIP-Atlas_1121	ZBTB48	Zinc-coordinating DNA-binding domains	Cell Line	U2OS
+chr7	55212119	55212302	ENCODE_0371	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUVEC
+chr7	55212078	55212224	ENCODE_0372	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUVEC
+chr7	55212131	55212278	ENCODE_0373	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUVEC
+chr7	55212074	55212220	ENCODE_0378	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUVEC
+chr7	55212093	55212329	ENCODE_0380	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUVEC
+chr7	55212108	55212304	ENCODE_0381	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUVEC
+chr7	55212119	55212302	ENCODE_0384	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUVEC
+chr7	55212118	55212223	Remap_0156	KDM5B	Helix-turn-helix domains	Cell Line	MDA-MB-231
+chr7	55212308	55212503	Remap_0156	KDM5B	Helix-turn-helix domains	Cell Line	MDA-MB-231
+chr7	55212276	55212422	Cistrome_0111	POLR2A	ENCODE: TF	Cell Line	LNCAP
+chr7	55212086	55212294	ENCODE_0259	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	LNCAP
+chr7	55212070	55212409	Cistrome_3822	AFF1	TcoF: TF	Cell Line	SEM
+chr7	55212233	55212548	Cistrome_2766	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212074	55212422	Cistrome_2781	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212134	55212412	Cistrome_2783	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212085	55212343	Cistrome_2784	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212067	55212303	Cistrome_2785	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212068	55212345	Cistrome_2882	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212086	55212375	ENCODE_1327	ETV1	Helix-turn-helix domains	Cell Line	K562
+chr7	55212080	55212314	ENCODE_0272	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212040	55212357	ENCODE_0273	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212017	55212521	ENCODE_0274	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212015	55212446	ENCODE_0277	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212059	55212381	ENCODE_0279	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212133	55212348	ENCODE_0280	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212072	55212346	ENCODE_0287	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212087	55212332	ENCODE_0313	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212057	55212388	ENCODE_0314	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212196	55212342	ENCODE_0315	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212133	55212348	ENCODE_0316	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212078	55212316	ENCODE_0319	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55211855	55212609	GTRD_0029	WT1	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55211893	55213211	GTRD_0030	WT1	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212095	55212352	Remap_0329	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212085	55212471	Remap_0333	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212123	55212277	ChIP-Atlas_1247	SMC3	ENCODE: TF	Cell Line	HeLa-S3
+chr7	55212013	55212344	ChIP-Atlas_1250	SMC3	ENCODE: TF	Cell Line	HeLa-S3
+chr7	55212105	55212268	ChIP-Atlas_1251	SMC3	ENCODE: TF	Cell Line	HeLa-S3
+chr7	55212154	55212379	ChIP-Atlas_1252	SMC3	ENCODE: TF	Cell Line	HeLa-S3
+chr7	55212149	55212314	ChIP-Atlas_1253	SMC3	ENCODE: TF	Cell Line	HeLa-S3
+chr7	55212124	55212324	ChIP-Atlas_1256	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HeLa-S3
+chr7	55212128	55212304	ChIP-Atlas_1257	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HeLa-S3
+chr7	55212091	55212327	ChIP-Atlas_1258	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HeLa-S3
+chr7	55212076	55212248	ChIP-Atlas_1303	SMC3	ENCODE: TF	Cell Line	HeLa-S3
+chr7	55212095	55212244	Cistrome_0106	MAX	Basic domains	Cell Line	HeLa-S3
+chr7	55212095	55212244	Cistrome_2177	MAX	Basic domains	Cell Line	HeLa-S3
+chr7	55212103	55212286	Cistrome_2198	STAT1	Immunoglobulin fold	Cell Line	HeLa-S3
+chr7	55212005	55212260	Cistrome_2204	TFAP2A	Basic domains	Cell Line	HeLa-S3
+chr7	55211993	55212261	Cistrome_2207	TFAP2C	Basic domains	Cell Line	HeLa-S3
+chr7	55212081	55212350	Cistrome_2216	SMC3	ENCODE: TF	Cell Line	HeLa-S3
+chr7	55212135	55212281	ENCODE_0079	STAT1	Immunoglobulin fold	Cell Line	HeLa-S3
+chr7	55212014	55212425	ENCODE_0462	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HeLa-S3
+chr7	55212118	55212297	ENCODE_0463	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HeLa-S3
+chr7	55212090	55212353	ENCODE_0464	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HeLa-S3
+chr7	55212060	55212332	ENCODE_0468	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HeLa-S3
+chr7	55212060	55212332	ENCODE_0476	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HeLa-S3
+chr7	55212239	55212467	Cistrome_2127	CHD1	ENCODE: TF	Cell Line	A549
+chr7	55211866	55212495	ENCODE_0050	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	A549
+chr7	55211970	55212417	ENCODE_0051	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	A549
+chr7	55212055	55212317	ENCODE_0059	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	A549
+chr7	55212069	55212354	ENCODE_0632	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	A549
+chr7	55212088	55212328	ENCODE_0633	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	A549
+chr7	55212315	55212510	ENCODE_0667	POLR2A	ENCODE: TF	Cell Line	A549
+chr7	55212317	55212486	ENCODE_0670	POLR2A	ENCODE: TF	Cell Line	A549
+chr7	55212040	55212457	ENCODE_0671	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	A549
+chr7	55212079	55212310	ENCODE_0672	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	A549
+chr7	55212085	55212332	ENCODE_0673	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	A549
+chr7	55211976	55212300	Cistrome_1795	EP300	ENCODE: TF	Cell Line	H9
+chr7	55212014	55212289	Remap_0131	TFAP2C	Basic domains	Cell Line	A375
+chr7	55212225	55212764	Cistrome_2414	POLR2A	ENCODE: TF	Cell Line	786-O
+chr7	55211942	55212575	Remap_0390	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	786-O
+chr7	55212314	55212463	Cistrome_0174	SSRP1	Other all-alpha-helical DNA-binding domains	Cell Line	HT1080
+chr7	55212052	55212402	ChIP-Atlas_0888	CTCF	Zinc-coordinating DNA-binding domains	Tissue	FW16
+chr7	55212080	55212310	Cistrome_2753	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	IMR-90
+chr7	55212118	55212553	Cistrome_0075	POLR2A	ENCODE: TF	Cell Line	IMR-90
+chr7	55212119	55212347	Remap_0136	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	IMR-90
+chr7	55211890	55212568	Cistrome_1401	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	PANC-1
+chr7	55211890	55212576	Cistrome_1402	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	PANC-1
+chr7	55211843	55212587	Cistrome_1403	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	PANC-1
+chr7	55211918	55212533	Cistrome_1404	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	PANC-1
+chr7	55212072	55212324	ENCODE_0196	CTCF	Zinc-coordinating DNA-binding domains	Primary Cel	osteoblast
+chr7	55212084	55212328	Cistrome_1844	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212090	55212348	Cistrome_1845	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212128	55212286	Cistrome_1849	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212078	55212351	Cistrome_1850	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212101	55212327	Cistrome_1978	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212101	55212322	Cistrome_2286	SMC3	ENCODE: TF	Cell Line	HepG2
+chr7	55212097	55212259	ENCODE_0405	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212104	55212324	ENCODE_0406	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212104	55212324	ENCODE_0407	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212065	55212335	ENCODE_0409	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212065	55212453	ENCODE_0410	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212140	55212333	ENCODE_0422	MAX	Basic domains	Cell Line	HepG2
+chr7	55212092	55212327	ENCODE_0437	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212080	55212339	ENCODE_0446	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212192	55212338	ENCODE_0449	JUND	Basic domains	Cell Line	HepG2
+chr7	55211971	55212338	GTRD_0083	ZBTB2	Zinc-coordinating DNA-binding domains	Cell Line	HepG2
+chr7	55212103	55212247	Cistrome_0399	ETS1	Helix-turn-helix domains	Cell Line	CUTLL1
+chr7	55212018	55212164	Cistrome_0404	EP300	ENCODE: TF	Cell Line	CUTLL1
+chr7	55212094	55212407	Cistrome_0722	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	PC-3
+chr7	55212010	55212480	Cistrome_2514	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55211993	55212447	Cistrome_0375	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55211952	55212436	Cistrome_0376	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212105	55212306	Cistrome_1715	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212092	55212290	Cistrome_1716	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212103	55212341	Cistrome_1717	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212095	55212363	ENCODE_0168	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212138	55212309	ENCODE_0566	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212120	55212354	ENCODE_0567	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212110	55212285	ENCODE_0569	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212064	55212294	ENCODE_0570	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212337	55212483	ENCODE_0593	REST	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212086	55212332	ENCODE_0613	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212032	55212317	GTRD_0076	ZBTB2	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr7	55212074	55212581	Cistrome_0411	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212072	55212411	Cistrome_0412	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212052	55212338	Cistrome_0413	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212063	55212421	Cistrome_0414	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212072	55212423	Cistrome_0415	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212143	55212359	Cistrome_1741	NANOG	Helix-turn-helix domains	Cell Line	H1
+chr7	55212078	55212343	Cistrome_1742	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212130	55212276	Cistrome_2236	JUND	Basic domains	Cell Line	H1
+chr7	55212074	55212435	Cistrome_2278	ZNF143	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212076	55212222	ENCODE_0108	MXI1	Basic domains	Cell Line	H1
+chr7	55212063	55212362	ENCODE_0501	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212089	55212356	ENCODE_0502	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212070	55212368	ENCODE_0503	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212072	55212431	ENCODE_0504	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212083	55212297	ENCODE_0506	SP4	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212119	55212265	ENCODE_0511	TEAD4	Helix-turn-helix domains	Cell Line	H1
+chr7	55212127	55212288	ENCODE_0512	CREB1	Basic domains	Cell Line	H1
+chr7	55212028	55212384	ENCODE_0513	MAX	Basic domains	Cell Line	H1
+chr7	55212100	55212399	ENCODE_0514	E2F6	Helix-turn-helix domains	Cell Line	H1
+chr7	55212058	55212350	ENCODE_0522	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212116	55212496	ENCODE_0523	GABPA	Helix-turn-helix domains	Cell Line	H1
+chr7	55212063	55212362	ENCODE_0532	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55212031	55212278	ENCODE_0541	YY1	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr7	55211999	55212558	Cistrome_2453	SRF	alpha-Helices exposed by beta-structures	Cell Line	A673
+chr7	55212084	55212410	Cistrome_2455	FLI1	Helix-turn-helix domains	Cell Line	A673
+chr7	55211683	55212962	GTRD_0046	SRF	alpha-Helices exposed by beta-structures	Cell Line	A673
+chr7	55212105	55212507	Cistrome_0055	GRHL3	Immunoglobulin fold	Cell Line	NHEK
+chr7	55212071	55212368	ENCODE_0198	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHEK
+chr7	55212064	55212430	ENCODE_0199	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHEK
+chr7	55212095	55212241	ENCODE_0200	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHEK
+chr7	55212062	55212427	ENCODE_0201	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHEK
+chr7	55212049	55212325	ENCODE_0203	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHEK
+chr7	55212104	55212350	ENCODE_0204	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHEK
+chr7	55212069	55212253	ENCODE_0205	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHEK
+chr7	55212071	55212368	ENCODE_0206	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHEK
+chr7	55212161	55212307	Cistrome_0125	EP300	ENCODE: TF	Primary Cel	R3_R4_Erythroid_cells
+chr7	55212340	55212486	Cistrome_0417	POLR2A	ENCODE: TF	Cell Line	KB
+chr7	55212086	55212517	Cistrome_1135	SPI1	Helix-turn-helix domains	Cell Line	KB
+chr7	55212335	55212518	Cistrome_1137	SPI1	Helix-turn-helix domains	Cell Line	KB
+chr7	55212267	55212413	Cistrome_1126	FOXA2	Helix-turn-helix domains	Cell Line	CyT49
+chr7	55212248	55212428	Cistrome_1127	FOXA2	Helix-turn-helix domains	Cell Line	CyT49
+chr7	55212101	55212538	Cistrome_1128	FOXA2	Helix-turn-helix domains	Cell Line	CyT49
+chr7	55212126	55212330	ENCODE_0394	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HMEC
+chr7	55212097	55212302	ENCODE_0396	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HMEC
+chr7	55212119	55212351	ENCODE_0397	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HMEC
+chr7	55212053	55212338	ENCODE_0398	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HMEC
+chr7	55212352	55212591	Cistrome_2480	ZFX	Zinc-coordinating DNA-binding domains	Cell Line	C4-2B
+chr7	55212095	55212321	Cistrome_3318	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SH-SY5Y
+chr7	55212051	55212398	ENCODE_0630	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	BE2C
+chr7	55212057	55212372	ENCODE_0631	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	BE2C
+chr7	55211965	55212195	Cistrome_1482	TFAP2A	Basic domains	Other	Neural_crest_cell
+chr7	55211986	55212208	Cistrome_1483	TFAP2A	Basic domains	Other	Neural_crest_cell
+chr7	55212016	55212230	Cistrome_1484	TFAP2A	Basic domains	Other	Neural_crest_cell
+chr7	55211962	55212215	Cistrome_2158	TFAP2A	Basic domains	Other	Neural_crest_cell
+chr7	55212057	55212375	Cistrome_3813	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	RH4
+chr7	55212109	55212358	Cistrome_3814	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	RH4
+chr7	55212045	55212376	Cistrome_3319	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-AS
+chr7	55212055	55212260	Cistrome_3864	EMX1	Helix-turn-helix domains	Cell Line	293FT
+chr7	55212379	55212525	Cistrome_3868	HSF1	Helix-turn-helix domains	Cell Line	451Lu
+chr7	55212123	55212343	Cistrome_3888	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	AG04449
+chr7	55212094	55212331	Cistrome_3889	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	AG04449
+chr7	55212102	55212300	Cistrome_3890	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	AG04450
+chr7	55212148	55212296	Cistrome_3891	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	AG04450
+chr7	55212085	55212318	Cistrome_3892	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	AG09309
+chr7	55212048	55212366	Cistrome_3894	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	AG09319
+chr7	55212110	55212365	Cistrome_3895	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	AG09319
+chr7	55212131	55212326	Cistrome_3896	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	AG10803
+chr7	55212122	55212317	Cistrome_3897	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	AG10803
+chr7	55212030	55212427	Cistrome_3920	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	BCBL1
+chr7	55212127	55212342	Cistrome_3925	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	BEAS-2B
+chr7	55212377	55212523	Cistrome_3966	SMAD3	beta-Hairpin exposed by an alpha/beta-scaffold	Stem Cel	BG03
+chr7	55212085	55212355	Cistrome_3969	SMC3	ENCODE: TF	Stem Cel	BG03
+chr7	55212077	55212249	Cistrome_4014	TFAP2C	Basic domains	Cell Line	BT-474
+chr7	55211970	55212444	Cistrome_4097	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	COLO-829
+chr7	55211988	55212410	Cistrome_4098	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	COLO-829
+chr7	55212054	55212259	Cistrome_4770	SMARCC1	Helix-turn-helix domains	Stem Cel	ES
+chr7	55212098	55212391	Cistrome_4236	FLI1	Helix-turn-helix domains	Cell Line	EWS502
+chr7	55212091	55212306	Cistrome_4243	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	FB0167P
+chr7	55212079	55212306	Cistrome_4244	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	FB0167P
+chr7	55212083	55212458	Cistrome_4246	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	FB8470
+chr7	55212077	55212297	Cistrome_4249	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	FB8470
+chr7	55212081	55212298	Cistrome_4251	KLF9	Zinc-coordinating DNA-binding domains	Cell Line	GBM1A
+chr7	55212105	55212529	Cistrome_4262	ATF3	Basic domains	Cell Line	GM00739
+chr7	55212144	55212340	Cistrome_4264	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM06990
+chr7	55212050	55212395	Cistrome_4265	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM06990
+chr7	55212142	55212290	Cistrome_4274	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM10248
+chr7	55212100	55212334	Cistrome_4275	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM10266
+chr7	55212118	55212346	Cistrome_4278	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM10847
+chr7	55212021	55212402	Cistrome_4279	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM10847
+chr7	55212143	55212332	Cistrome_4304	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12864
+chr7	55212118	55212334	Cistrome_4305	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12864
+chr7	55212080	55212357	Cistrome_4306	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12864
+chr7	55212076	55212335	Cistrome_4307	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12865
+chr7	55212074	55212393	Cistrome_4310	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12866
+chr7	55212118	55212354	Cistrome_4311	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12867
+chr7	55212094	55212330	Cistrome_4312	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12868
+chr7	55212096	55212360	Cistrome_4313	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12869
+chr7	55212088	55212310	Cistrome_4314	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12870
+chr7	55212084	55212352	Cistrome_4315	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12871
+chr7	55212088	55212392	Cistrome_4316	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12872
+chr7	55212096	55212323	Cistrome_4317	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12872
+chr7	55212083	55212380	Cistrome_4318	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12872
+chr7	55212063	55212375	Cistrome_4319	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12873
+chr7	55212107	55212351	Cistrome_4320	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12873
+chr7	55212081	55212364	Cistrome_4321	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12873
+chr7	55212076	55212345	Cistrome_4322	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12874
+chr7	55212063	55212356	Cistrome_4323	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12874
+chr7	55212140	55212322	Cistrome_4324	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12875
+chr7	55212102	55212370	Cistrome_4325	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12875
+chr7	55211964	55212434	Cistrome_4326	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12890
+chr7	55211967	55212496	Cistrome_4327	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12890
+chr7	55212033	55212401	Cistrome_4328	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12890
+chr7	55212070	55212357	Cistrome_4331	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12891
+chr7	55211964	55212435	Cistrome_4332	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12891
+chr7	55211972	55212474	Cistrome_4333	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12891
+chr7	55212087	55212321	Cistrome_4354	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12891
+chr7	55212073	55212383	Cistrome_4355	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12891
+chr7	55212068	55212367	Cistrome_4356	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12892
+chr7	55211964	55212550	Cistrome_4360	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12892
+chr7	55211972	55212527	Cistrome_4361	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12892
+chr7	55212076	55212347	Cistrome_4374	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12892
+chr7	55212100	55212332	Cistrome_4375	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12892
+chr7	55212134	55212289	Cistrome_4376	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM13976
+chr7	55212070	55212370	Cistrome_4377	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM13977
+chr7	55211982	55212405	Cistrome_4388	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM17942
+chr7	55212019	55212433	Cistrome_4389	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM18486
+chr7	55212006	55212402	Cistrome_4391	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM18486
+chr7	55211962	55212336	Cistrome_4395	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM18505
+chr7	55212034	55212444	Cistrome_4396	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM18505
+chr7	55212043	55212427	Cistrome_4414	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM18526
+chr7	55212048	55212352	Cistrome_4415	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM18526
+chr7	55212074	55212378	Cistrome_4426	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM18951
+chr7	55212089	55212528	Cistrome_4427	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM18951
+chr7	55212013	55212306	Cistrome_4443	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19099
+chr7	55212002	55212429	Cistrome_4444	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19099
+chr7	55211994	55212437	Cistrome_4454	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19193
+chr7	55211953	55212323	Cistrome_4455	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19193
+chr7	55212074	55212405	Cistrome_4468	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19238
+chr7	55211964	55212483	Cistrome_4470	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19238
+chr7	55211940	55212556	Cistrome_4471	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19238
+chr7	55212080	55212354	Cistrome_4474	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19238
+chr7	55212076	55212405	Cistrome_4475	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19238
+chr7	55212076	55212332	Cistrome_4476	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19239
+chr7	55211998	55212438	Cistrome_4478	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19239
+chr7	55212008	55212415	Cistrome_4479	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19239
+chr7	55212094	55212315	Cistrome_4482	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19239
+chr7	55212131	55212289	Cistrome_4483	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19239
+chr7	55212068	55212351	Cistrome_4484	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19240
+chr7	55212000	55212443	Cistrome_4485	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19240
+chr7	55211951	55212517	Cistrome_4486	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19240
+chr7	55212068	55212336	Cistrome_4489	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19240
+chr7	55212099	55212317	Cistrome_4490	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM19240
+chr7	55212103	55212285	Cistrome_4491	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM20000
+chr7	55211971	55212437	Cistrome_4492	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2255
+chr7	55211958	55212425	Cistrome_4493	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2255
+chr7	55212002	55212434	Cistrome_4494	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2255
+chr7	55211982	55212413	Cistrome_4497	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2588
+chr7	55211942	55212495	Cistrome_4498	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2588
+chr7	55212009	55212382	Cistrome_4499	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2588
+chr7	55211973	55212395	Cistrome_4502	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2610
+chr7	55211956	55212410	Cistrome_4503	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2610
+chr7	55212005	55212458	Cistrome_4504	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2610
+chr7	55211985	55212416	Cistrome_4507	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2630
+chr7	55211946	55212456	Cistrome_4508	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2630
+chr7	55211989	55212408	Cistrome_4509	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM2630
+chr7	55212062	55212357	Cistrome_4512	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GP5d
+chr7	55212120	55212406	Cistrome_4521	SMC3	ENCODE: TF	Cell Line	GP5d
+chr7	55212212	55212358	Cistrome_4522	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GP5d
+chr7	55212042	55212401	Cistrome_4583	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H54
+chr7	55212276	55212463	Cistrome_4584	POLR2A	ENCODE: TF	Cell Line	H54
+chr7	55212066	55212361	Cistrome_4585	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H54
+chr7	55212135	55212281	Cistrome_4607	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HA-sp
+chr7	55212082	55212312	Cistrome_4608	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HA-sp
+chr7	55212078	55212349	Cistrome_4758	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HRE
+chr7	55212073	55212381	Cistrome_4759	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HRE
+chr7	55212054	55212259	Cistrome_4770	SMARCC1	Helix-turn-helix domains	Cell Line	HS-ES-2M
+chr7	55212200	55212543	Cistrome_4787	POLR2A	ENCODE: TF	Cell Line	HuCCT1
+chr7	55211951	55212371	Cistrome_4811	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUES64
+chr7	55212410	55212594	Cistrome_4811	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUES64
+chr7	55212094	55212258	Cistrome_4814	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUES64
+chr7	55212148	55212296	Cistrome_4815	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUES64
+chr7	55212147	55212266	Cistrome_4816	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	HUES64
+chr7	55212035	55212441	Cistrome_4914	SRF	alpha-Helices exposed by beta-structures	Cell Line	HUES64
+chr7	55212132	55212293	Cistrome_4915	SRF	alpha-Helices exposed by beta-structures	Cell Line	HUES64
+chr7	55211995	55212550	Cistrome_4916	SRF	alpha-Helices exposed by beta-structures	Cell Line	HUES64
+chr7	55212194	55212514	Cistrome_4919	SRF	alpha-Helices exposed by beta-structures	Cell Line	HUES64
+chr7	55212033	55212354	Cistrome_5006	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	JHU-011
+chr7	55212043	55212318	Cistrome_5007	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	JHU-011
+chr7	55212160	55213032	Cistrome_5034	SMARCA4	TcoF: TF	Cell Line	J-Lat-A72
+chr7	55212202	55212396	Cistrome_5102	RUNX1	Immunoglobulin fold	Cell Line	Kasumi-1
+chr7	55212154	55212379	Cistrome_5109	ERG	Helix-turn-helix domains	Cell Line	Kasumi-1
+chr7	55212067	55212302	Cistrome_5110	FLI1	Helix-turn-helix domains	Cell Line	Kasumi-1
+chr7	55212114	55212308	Cistrome_5374	SMC3	ENCODE: TF	Cell Line	LoVo
+chr7	55212058	55212531	Cistrome_5737	POLR2A	ENCODE: TF	Cell Line	MCF-10A
+chr7	55211951	55212372	Cistrome_5754	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF-10A
+chr7	55212080	55212362	Cistrome_5786	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MCF10CA1a
+chr7	55212005	55212439	Cistrome_5878	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MS1
+chr7	55212005	55212431	Cistrome_5879	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MS1
+chr7	55211970	55212417	Cistrome_5880	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MS1
+chr7	55212153	55212622	Cistrome_5881	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	MS1
+chr7	55212100	55212341	Cistrome_5938	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NB4
+chr7	55212083	55212376	Cistrome_5943	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NB69
+chr7	55212084	55212398	Cistrome_5994	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHDF-Ad
+chr7	55212084	55212295	Cistrome_5995	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHDF-neo
+chr7	55212054	55212206	Cistrome_5996	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHDF-neo
+chr7	55212098	55212378	Cistrome_5997	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHLF
+chr7	55212068	55212354	Cistrome_5999	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	NHLF
+chr7	55212346	55212500	Cistrome_6020	EZH2	TcoF: TF	Cell Line	NTKO
+chr7	55212068	55212264	Cistrome_6089	CTCF	Zinc-coordinating DNA-binding domains	Primary Cel	PrEC
+chr7	55211985	55212393	Cistrome_6134	CTCF	Zinc-coordinating DNA-binding domains	Primary Cel	RPTEC
+chr7	55212061	55212366	Cistrome_6135	CTCF	Zinc-coordinating DNA-binding domains	Primary Cel	RPTEC
+chr7	55212080	55212364	Cistrome_6150	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SAEC
+chr7	55212077	55212349	Cistrome_6151	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SAEC
+chr7	55212079	55212316	Cistrome_6182	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SHEP-21N
+chr7	55212081	55212373	Cistrome_6183	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SHEP-21N
+chr7	55212109	55212377	Cistrome_6184	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SHEP-21N
+chr7	55211932	55212305	Cistrome_6200	TFAP2C	Basic domains	Cell Line	SKBR-3
+chr7	55212095	55212402	Cistrome_6223	FLI1	Helix-turn-helix domains	Cell Line	SKNO-1
+chr7	55212054	55212368	Cistrome_6232	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH
+chr7	55212101	55212264	Cistrome_6235	MXI1	Basic domains	Cell Line	SK-N-SH
+chr7	55212047	55212347	Cistrome_6237	SMC3	ENCODE: TF	Cell Line	SK-N-SH
+chr7	55212182	55212508	Cistrome_6238	REST	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH
+chr7	55212076	55212326	Cistrome_6246	MAX	Basic domains	Cell Line	SK-N-SH
+chr7	55212064	55212344	Cistrome_6266	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH
+chr7	55211949	55212236	Cistrome_6276	EBF3	Immunoglobulin fold	Cell Line	SK-N-SH
+chr7	55212089	55212359	Cistrome_6278	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH_RA
+chr7	55212063	55212367	Cistrome_6279	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH_RA
+chr7	55212077	55212335	Cistrome_6284	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH_RA
+chr7	55212152	55212390	Cistrome_6341	MAZ	Zinc-coordinating DNA-binding domains	Cell Line	T778
+chr7	55212094	55212326	Cistrome_6366	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	THP-1
+chr7	55212035	55212373	Cistrome_6383	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	THP-1
+chr7	55212105	55212365	Cistrome_6384	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	THP-1
+chr7	55212400	55212563	Cistrome_6472	ERG	Helix-turn-helix domains	Cell Line	TSU-1621-MT
+chr7	55212405	55212555	Cistrome_6478	T	Immunoglobulin fold	Cell Line	TSU-1621-MT
+chr7	55212177	55212361	Cistrome_6509	FLI1	Helix-turn-helix domains	Cell Line	U937
+chr7	55212075	55212357	Cistrome_6558	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	WERI-Rb-1
+chr7	55212061	55212355	Cistrome_6559	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	WERI-Rb-1
+chr7	55212086	55212286	Cistrome_6575	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	WI-38
+chr7	55212107	55212264	Cistrome_6576	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	WI-38
+chr7	55212389	55212567	Cistrome_6577	POLR2A	ENCODE: TF	Cell Line	WI-38
+chr7	55212067	55212385	ENCODE_0011	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	DND-41
+chr7	55212077	55212318	ENCODE_0261	CTCF	Zinc-coordinating DNA-binding domains	Tissue	Kidney
+chr7	55212068	55212432	ENCODE_1640	CTCF	Zinc-coordinating DNA-binding domains	Tissue	gastroesophageal_sphincter
+chr7	55212121	55212410	ENCODE_1641	CTCF	Zinc-coordinating DNA-binding domains	Tissue	gastroesophageal_sphincter
+chr7	55212138	55212238	Remap_0157	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	SUM159

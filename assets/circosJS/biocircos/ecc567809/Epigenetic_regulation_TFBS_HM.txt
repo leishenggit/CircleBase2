@@ -1,0 +1,1 @@
+chr7	55020473	55020759	Cistrome_4538	ZEB1	Helix-turn-helix domains	Cell Line	H1975

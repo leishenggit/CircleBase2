@@ -1,0 +1,30 @@
+/* 导航栏基本样式 */
+.navbar-inverse {
+  background: linear-gradient(135deg, purple 0%, #0033CC 100%);
+  border-color: transparent;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* 品牌和链接颜色 */
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav > li > a {
+  color: #ffffff;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+/* 悬停和激活状态 */
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover {
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+/* 移动端菜单按钮 */
+.navbar-inverse .navbar-toggle {
+  border-color: rgba(255, 255, 255, 0.6);
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+  background-color: black;
+}

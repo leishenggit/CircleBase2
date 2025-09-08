@@ -1,0 +1,13 @@
+chr11	16832600	16833600	mOpenC	open chromatin
+chr11	16833600	16834800	mEnhWk	weak enhancers
+chr11	16834800	16835000	mQuies	quiescent
+chr11	16835000	16835200	mEnhWk	weak enhancers
+chr11	16835200	16835400	mQuies	quiescent
+chr11	16835400	16835600	mQuies	quiescent
+chr11	16835600	16836200	mQuies	quiescent
+chr11	16836200	16836400	mOpenC	open chromatin
+chr11	16836400	16836600	mQuies	quiescent
+chr11	16836600	16840800	mEnhWk	weak enhancers
+chr11	16840800	16841200	mOpenC	open chromatin
+chr11	16841200	16841600	mEnhA	active enhancers
+chr11	16841600	16842400	mEnhWk	weak enhancers

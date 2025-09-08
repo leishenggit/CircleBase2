@@ -1,0 +1,22 @@
+chr7	55213095	55213245	73	Peyer's patch	tissue	
+chr7	55213495	55213645	64	Peyer's patch	tissue	
+chr7	55213291	55213441	76	foreskin fibroblast	primary cell	
+chr7	55213195	55213345	40	adrenal gland	tissue	
+chr7	55213345	55213495	41	adrenal gland	tissue	
+chr7	55213395	55213545	62	esophagus squamous epithelium	tissue	
+chr7	55213256	55213406	41	skeletal muscle myoblast	primary cell	
+chr7	55213135	55213285	38	breast epithelium	tissue	
+chr7	55213435	55213585	56	breast epithelium	tissue	
+chr7	55213047	55213197	54	tibial nerve	tissue	
+chr7	55213349	55213499	44	tibial nerve	tissue	
+chr7	55213095	55213245	44	esophagus muscularis mucosa	tissue	
+chr7	55213375	55213525	45	esophagus muscularis mucosa	tissue	
+chr7	55213515	55213665	89	gastrocnemius medialis	tissue	
+chr7	55213075	55213225	47	thyroid gland	tissue	
+chr7	55213435	55213585	38	thyroid gland	tissue	
+chr7	55213075	55213225	58	tibial artery	tissue	
+chr7	55213535	55213685	48	tibial artery	tissue	
+chr7	55213355	55213505	38	sigmoid colon	tissue	
+chr7	55213017	55213167	51	heart left ventricle	tissue	
+chr7	55213188	55213338	44	heart left ventricle	tissue	
+chr7	55213255	55213405	83	GM23248	cell line	

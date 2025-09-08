@@ -1,0 +1,21 @@
+chr7	55211902	55213284	GTRD_0024	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55211766	55213201	GTRD_0025	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55213346	55215439	GTRD_0025	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55211820	55213450	GTRD_0027	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55213107	55213265	Cistrome_3066	ESR1	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	55213532	55213688	Cistrome_2061	FOXA1	Helix-turn-helix domains	Cell Line	MCF-7
+chr7	55213473	55213634	ENCODE_0250	MYC	Basic domains	Cell Line	MCF-7
+chr7	55212890	55213089	Cistrome_0637	SNAI2	Zinc-coordinating DNA-binding domains	Primary Cel	keratinocyte
+chr7	55212925	55213139	Cistrome_0956	NR3C1	Zinc-coordinating DNA-binding domains	Primary Cel	macrophage
+chr7	55213448	55213833	ChIP-Atlas_0945	FOXA2	Helix-turn-helix domains	Cell Line	BJ
+chr7	55213455	55213818	ChIP-Atlas_0946	FOXA2	Helix-turn-helix domains	Cell Line	BJ
+chr7	55213540	55213740	ChIP-Atlas_0953	FOXA2	Helix-turn-helix domains	Cell Line	BJ
+chr7	55213567	55213767	ChIP-Atlas_0971	FOXA2	Helix-turn-helix domains	Cell Line	BJ
+chr7	55213534	55213761	ChIP-Atlas_0974	FOXA2	Helix-turn-helix domains	Cell Line	BJ
+chr7	55213548	55213804	ChIP-Atlas_1367	FOXA2	Helix-turn-helix domains	Cell Line	BJ
+chr7	55213035	55213242	Cistrome_2044	FLI1	Helix-turn-helix domains	Cell Line	HUVEC
+chr7	55211893	55213211	GTRD_0030	WT1	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55213521	55215426	GTRD_0030	WT1	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55212848	55213347	Cistrome_0075	POLR2A	ENCODE: TF	Cell Line	IMR-90
+chr7	55213139	55213286	Cistrome_0705	SPIB	Helix-turn-helix domains	Cell Line	OCI-Ly3
+chr7	55213499	55213583	Cistrome_5140	RELB	Immunoglobulin fold	Cell Line	L1236

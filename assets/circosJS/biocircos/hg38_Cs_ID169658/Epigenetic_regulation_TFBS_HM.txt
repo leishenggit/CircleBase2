@@ -1,0 +1,11 @@
+chr7	55214411	55215399	GTRD_0024	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55213346	55215439	GTRD_0025	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr7	55214273	55214419	Cistrome_0235	POLR2A	ENCODE: TF	Cell Line	HCT116
+chr7	55214357	55215083	Cistrome_0956	NR3C1	Zinc-coordinating DNA-binding domains	Primary Cel	macrophage
+chr7	55213448	55213833	ChIP-Atlas_0945	FOXA2	Helix-turn-helix domains	Cell Line	BJ
+chr7	55213743	55213992	GTRD_0029	WT1	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55213521	55215426	GTRD_0030	WT1	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr7	55214216	55214544	Cistrome_0075	POLR2A	ENCODE: TF	Cell Line	IMR-90
+chr7	55214241	55214387	Cistrome_0417	POLR2A	ENCODE: TF	Cell Line	KB
+chr7	55213909	55214249	Cistrome_1104	SPI1	Helix-turn-helix domains	Cell Line	HMEC
+chr7	55213823	55214075	Cistrome_5886	EBF1	Immunoglobulin fold	Cell Line	MutuI

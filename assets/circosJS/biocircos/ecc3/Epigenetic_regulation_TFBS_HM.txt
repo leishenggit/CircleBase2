@@ -1,0 +1,28 @@
+chr1	753217	753545	ENCODE_1031	ZBTB33	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	753238	753554	ENCODE_1032	ZBTB33	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	753335	753501	ChIP-Atlas_1005	RUNX1	Immunoglobulin fold	Cell Line	293
+chr1	753335	753560	ChIP-Atlas_0831	TET2	TcoF: TF	Cell Line	Jurkat
+chr1	753335	753523	ChIP-Atlas_1004	TET2	TcoF: TF	Cell Line	Jurkat
+chr1	753388	753585	Cistrome_2505	SMARCB1	TcoF: TF	Cell Line	G401
+chr1	753334	753608	Cistrome_2918	HNF4G	Zinc-coordinating DNA-binding domains	Cell Line	LNCAP
+chr1	753267	753660	Cistrome_3819	KMT2A	Zinc-coordinating DNA-binding domains	Cell Line	SEM
+chr1	753139	753576	ENCODE_1505	ZBTB33	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr1	753142	753567	ENCODE_1506	ZBTB33	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr1	753429	753755	ENCODE_1538	NR2F1	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr1	753369	753553	ENCODE_0287	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr1	753295	753612	Cistrome_1245	SPI1	Helix-turn-helix domains	Cell Line	786-O
+chr1	753334	753681	Cistrome_0072	EP300	ENCODE: TF	Cell Line	IMR-90
+chr1	753336	753493	Cistrome_0074	POLR2A	ENCODE: TF	Cell Line	IMR-90
+chr1	753392	753744	Cistrome_0821	EP300	ENCODE: TF	Cell Line	IMR-90
+chr1	753365	753511	Cistrome_0823	RB1	ENCODE: TF	Cell Line	IMR-90
+chr1	753334	753681	Cistrome_2170	EP300	ENCODE: TF	Cell Line	IMR-90
+chr1	753337	753496	ENCODE_0074	CHD1	ENCODE: TF	Cell Line	IMR-90
+chr1	753322	753663	ENCODE_0153	POLR2A	ENCODE: TF	Cell Line	IMR-90
+chr1	753329	753652	Cistrome_0376	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr1	753339	753578	Cistrome_0411	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr1	753411	753584	Cistrome_0412	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr1	753338	753488	Cistrome_0285	POLR2A	ENCODE: TF	Cell Line	U87
+chr1	753328	753750	Cistrome_2146	MAX	Basic domains	Cell Line	U87
+chr1	753354	753477	Cistrome_4620	STAT3	Immunoglobulin fold	Cell Line	HCC70
+chr1	753315	753496	Cistrome_4672	ZNF263	Zinc-coordinating DNA-binding domains	Cell Line	HEK293T
+chr1	753385	753546	Cistrome_6577	POLR2A	ENCODE: TF	Cell Line	WI-38

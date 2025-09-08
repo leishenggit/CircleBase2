@@ -1,0 +1,31 @@
+chr7	55216855	55217005	75	fibroblast of mammary gland	primary cell	
+chr7	55216835	55216985	155	fibroblast of skin of upper back	primary cell	
+chr7	55216470	55216620	50	body of pancreas	tissue	
+chr7	55216835	55216985	92	cardiac muscle cell	primary cell	
+chr7	55216815	55216965	157	fibroblast of skin of scalp	primary cell	
+chr7	55216835	55216985	201	foreskin fibroblast	primary cell	
+chr7	55216815	55216965	99	fibroblast of skin of right quadriceps	primary cell	
+chr7	55216835	55216985	152	skeletal muscle myoblast	primary cell	
+chr7	55216835	55216985	458	lung	tissue	
+chr7	55216815	55216965	296	iris pigment epithelial cell	primary cell	
+chr7	55216875	55217025	76	left lung	tissue	
+chr7	55216824	55216974	58	MCF 10A	cell line	tamoxifen
+chr7	55216815	55216965	280	amniotic epithelial cell	primary cell	
+chr7	55216815	55216965	108	fibroblast of skin of right biceps	primary cell	
+chr7	55216815	55216965	101	fibroblast of pulmonary artery	primary cell	
+chr7	55216875	55217025	81	fibroblast of dermis	primary cell	
+chr7	55216815	55216965	84	EL	cell line	
+chr7	55216815	55216965	310	cardiac fibroblast	primary cell	
+chr7	55216795	55216945	101	muscle of trunk	tissue	
+chr7	55216749	55216899	79	osteoblast	primary cell	
+chr7	55216899	55217049	58	osteoblast	primary cell	
+chr7	55216795	55216945	139	fibroblast of peridontal ligament	primary cell	
+chr7	55216795	55216945	80	right lung	tissue	
+chr7	55216797	55216947	65	muscle of leg	tissue	
+chr7	55216835	55216985	190	choroid plexus epithelial cell	primary cell	
+chr7	55216815	55216965	212	fibroblast of gingiva	primary cell	
+chr7	55216922	55217072	70	muscle of back	tissue	
+chr7	55216916	55217066	27	thyroid gland	tissue	
+chr7	55216835	55216985	102	IMR-90	cell line	
+chr7	55216863	55217013	60	stomach	tissue	
+chr7	55216841	55216991	61	AG10803	cell line	

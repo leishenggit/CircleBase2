@@ -1,0 +1,2 @@
+chr11	16843400	16843600	mOpenC	open chromatin
+chr11	16843600	16843800	mEnhA	active enhancers

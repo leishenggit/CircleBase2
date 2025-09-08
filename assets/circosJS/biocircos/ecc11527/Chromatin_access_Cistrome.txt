@@ -1,0 +1,1 @@
+chr1	243770275	243770482	GSM2705081	Primary Cell	Treg cell

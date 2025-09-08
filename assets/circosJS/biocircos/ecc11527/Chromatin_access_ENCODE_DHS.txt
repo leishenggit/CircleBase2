@@ -1,0 +1,4 @@
+chr1	243770114	243770264	60	endodermal cell	in vitro differentiated cells	
+chr1	243770044	243770194	52	upper lobe of left lung	tissue	
+chr1	243770375	243770525	65	upper lobe of left lung	tissue	
+chr1	243770075	243770225	50	spleen	tissue	

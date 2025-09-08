@@ -1,0 +1,1 @@
+chr7	53138146	53139441	1835125	hg19_UVEC_chr7_53070453	1295	umbilical_vein_endothelial_cells	0.004	0	POM121L12	h3k27ac	E	coding

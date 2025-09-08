@@ -1,0 +1,16 @@
+chr7	53138735	53138885	110	endothelial cell of umbilical vein	primary cell	
+chr7	53138695	53138845	6	non-pigmented ciliary epithelial cell	primary cell	
+chr7	53138656	53138806	14	fibroblast of villous mesenchyme	primary cell	
+chr7	53138695	53138845	20	fibroblast of lung	primary cell	
+chr7	53138699	53138849	38	trophoblast cell	primary cell	
+chr7	53138689	53138839	12	bronchial epithelial cell	primary cell	
+chr7	53138435	53138585	18	osteoblast	primary cell	
+chr7	53138675	53138825	25	renal cortical epithelial cell	primary cell	
+chr7	53138695	53138845	37	astrocyte of the spinal cord	primary cell	
+chr7	53138735	53138885	40	astrocyte of the hippocampus	primary cell	
+chr7	53138715	53138865	37	mesenchymal stem cell	in vitro differentiated cells	
+chr7	53138675	53138825	20	M059J	cell line	
+chr7	53138724	53138874	15	foreskin melanocyte	primary cell	
+chr7	53138715	53138865	282	SK-MEL-5	cell line	
+chr7	53138755	53138905	12	AG10803	cell line	
+chr7	53138695	53138845	19	glomerular endothelial cell	primary cell	

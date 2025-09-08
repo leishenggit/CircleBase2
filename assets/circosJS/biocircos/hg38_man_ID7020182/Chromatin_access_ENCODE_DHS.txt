@@ -1,0 +1,31 @@
+chr7	55216415	55216565	78	fibroblast of mammary gland	primary cell	
+chr7	55216415	55216565	106	fibroblast of skin of upper back	primary cell	
+chr7	55216470	55216620	50	body of pancreas	tissue	
+chr7	55216395	55216545	45	Peyer's patch	tissue	
+chr7	55216415	55216565	138	foreskin fibroblast	primary cell	
+chr7	55216395	55216545	12	adrenal gland	tissue	
+chr7	55216415	55216565	119	fibroblast of skin of right quadriceps	primary cell	
+chr7	55216431	55216581	20	esophagus squamous epithelium	tissue	
+chr7	55216383	55216533	105	Daoy	cell line	
+chr7	55216395	55216545	74	iris pigment epithelial cell	primary cell	
+chr7	55216395	55216545	70	MCF 10A	cell line	tamoxifen
+chr7	55216395	55216545	74	amniotic epithelial cell	primary cell	
+chr7	55216395	55216545	56	fibroblast of lung	primary cell	
+chr7	55216395	55216545	86	breast epithelium	tissue	
+chr7	55216395	55216545	99	fibroblast of skin of right biceps	primary cell	
+chr7	55216385	55216535	78	LNCaP clone FGC	cell line	17β-hydroxy-17-methylestra-4,9,11-trien-3-one
+chr7	55216391	55216541	80	EL	cell line	
+chr7	55216388	55216538	54	cardiac fibroblast	primary cell	
+chr7	55216394	55216544	104	LNCaP clone FGC	cell line	
+chr7	55216411	55216561	41	renal cortical epithelial cell	primary cell	
+chr7	55216391	55216541	75	astrocyte of the hippocampus	primary cell	
+chr7	55216415	55216565	110	choroid plexus epithelial cell	primary cell	
+chr7	55216375	55216525	43	esophagus muscularis mucosa	tissue	
+chr7	55216395	55216545	73	gastrocnemius medialis	tissue	
+chr7	55216395	55216545	229	M059J	cell line	
+chr7	55216398	55216548	22	astrocyte of the cerebellum	primary cell	
+chr7	55216374	55216524	31	thyroid gland	tissue	
+chr7	55216375	55216525	19	tibial artery	tissue	
+chr7	55216355	55216505	25	sigmoid colon	tissue	
+chr7	55216400	55216550	63	SK-MEL-5	cell line	
+chr7	55216375	55216525	31	omental fat pad	tissue	

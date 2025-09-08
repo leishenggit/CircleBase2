@@ -1,0 +1,27 @@
+chr7	53138677	53138823	Cistrome_1301	ESR1	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	53138524	53138745	Cistrome_1872	FOXA1	Helix-turn-helix domains	Cell Line	MCF-7
+chr7	53138572	53138751	Cistrome_2061	FOXA1	Helix-turn-helix domains	Cell Line	MCF-7
+chr7	53138531	53138695	Cistrome_2062	FOXA1	Helix-turn-helix domains	Cell Line	MCF-7
+chr7	53138723	53138828	Remap_0119	ESR1	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr7	53138555	53138970	Remap_0286	NR3C1	Zinc-coordinating DNA-binding domains	Cell Line	U2OS
+chr7	53138668	53138829	ENCODE_0376	FOS	Basic domains	Cell Line	HUVEC
+chr7	53138661	53138895	ENCODE_0377	FOS	Basic domains	Cell Line	HUVEC
+chr7	53138645	53138928	ENCODE_0382	POLR2A	ENCODE: TF	Cell Line	HUVEC
+chr7	53138649	53138900	ENCODE_0389	JUN	Basic domains	Cell Line	HUVEC
+chr7	53138648	53138895	ENCODE_0393	FOS	Basic domains	Cell Line	HUVEC
+chr7	53138365	53138737	Cistrome_0126	FOXA1	Helix-turn-helix domains	Cell Line	LNCAP
+chr7	53138475	53138687	Remap_0421	FOXA1	Helix-turn-helix domains	Cell Line	LNCAP
+chr7	53138515	53138676	Remap_0422	FOXA1	Helix-turn-helix domains	Cell Line	LNCAP
+chr7	53138463	53138710	Remap_0423	FOXA1	Helix-turn-helix domains	Cell Line	LNCAP
+chr7	53138662	53138870	Cistrome_0958	EP300	ENCODE: TF	Cell Line	HeLa-S3
+chr7	53138611	53138894	Cistrome_0959	EP300	ENCODE: TF	Cell Line	HeLa-S3
+chr7	53138629	53138919	Cistrome_0960	EP300	ENCODE: TF	Cell Line	HeLa-S3
+chr7	53138711	53138857	Cistrome_1799	NR3C1	Zinc-coordinating DNA-binding domains	Cell Line	HeLa-S3
+chr7	53138637	53138828	Cistrome_1813	NR3C1	Zinc-coordinating DNA-binding domains	Cell Line	HeLa-S3
+chr7	53138679	53138900	ChIP-Atlas_0685	ETV1	Helix-turn-helix domains	Cell Line	A375
+chr7	53138607	53138803	Cistrome_2056	ESR1	Zinc-coordinating DNA-binding domains	Cell Line	ZR-75-1
+chr7	53138551	53138796	Remap_0352	FOXA1	Helix-turn-helix domains	Cell Line	ZR-75-1
+chr7	53138655	53138897	Cistrome_5098	NR4A1	Zinc-coordinating DNA-binding domains	Cell Line	Kasumi-1
+chr7	53138665	53138959	Cistrome_5099	NR4A1	Zinc-coordinating DNA-binding domains	Cell Line	Kasumi-1
+chr7	53138591	53138817	Cistrome_5823	AR	Zinc-coordinating DNA-binding domains	Cell Line	MDA-MB-453
+chr7	53138624	53138826	Cistrome_6351	ESR1	Zinc-coordinating DNA-binding domains	Cell Line	TAM_R

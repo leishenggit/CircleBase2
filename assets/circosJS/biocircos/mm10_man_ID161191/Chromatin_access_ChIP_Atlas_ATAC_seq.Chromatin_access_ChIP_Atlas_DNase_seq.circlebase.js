@@ -1,0 +1,37 @@
+var Chromatin_access_ChIP_Atlas_ATAC_seq = [ "ARC_Chromatin_access_ChIP_Atlas_ATAC_seq" , {
+  innerRadius: 120,
+  outerRadius: 135,
+} , [
+{chr: 'chr11', start: '0', end: '532', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16850903-16851435', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16850903-16851435' },
+{chr: 'chr11', start: '141', end: '369', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851044-16851272', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851044-16851272' },
+{chr: 'chr11', start: '142', end: '361', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851045-16851264', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851045-16851264' },
+{chr: 'chr11', start: '178', end: '365', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851081-16851268', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851081-16851268' },
+{chr: 'chr11', start: '189', end: '342', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851092-16851245', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851092-16851245' },
+{chr: 'chr11', start: '189', end: '391', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851092-16851294', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851092-16851294' },
+{chr: 'chr11', start: '197', end: '390', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851100-16851293', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851100-16851293' },
+{chr: 'chr11', start: '202', end: '344', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851105-16851247', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851105-16851247' },
+{chr: 'chr11', start: '202', end: '370', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851105-16851273', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851105-16851273' },
+{chr: 'chr11', start: '203', end: '339', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851106-16851242', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851106-16851242' },
+{chr: 'chr11', start: '203', end: '374', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851106-16851277', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851106-16851277' },
+{chr: 'chr11', start: '207', end: '330', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851110-16851233', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851110-16851233' },
+{chr: 'chr11', start: '207', end: '332', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851110-16851235', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851110-16851235' },
+{chr: 'chr11', start: '208', end: '372', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851111-16851275', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851111-16851275' },
+{chr: 'chr11', start: '210', end: '364', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851113-16851267', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851113-16851267' },
+{chr: 'chr11', start: '215', end: '349', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851118-16851252', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851118-16851252' },
+{chr: 'chr11', start: '217', end: '366', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851120-16851269', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851120-16851269' },
+{chr: 'chr11', start: '235', end: '353', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851138-16851256', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851138-16851256' },
+{chr: 'chr11', start: '238', end: '358', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851141-16851261', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851141-16851261' },
+{chr: 'chr11', start: '239', end: '353', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851142-16851256', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851142-16851256' },
+{chr: 'chr11', start: '239', end: '365', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851142-16851268', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851142-16851268' },
+{chr: 'chr11', start: '245', end: '325', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851148-16851228', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851148-16851228' },
+{chr: 'chr11', start: '249', end: '351', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851152-16851254', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851152-16851254' },
+{chr: 'chr11', start: '254', end: '347', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851157-16851250', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16851157-16851250' },
+{chr: 'chr11', start: '79', end: '383', color: 'purple', des: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16850982-16851286', html: 'source: ChIP_Atlas_ATAC_seq<br>coordinate: chr11:16850982-16851286' },
+]];
+var Chromatin_access_ChIP_Atlas_DNase_seq = [ "ARC_Chromatin_access_ChIP_Atlas_DNase_seq" , {
+  innerRadius: 138,
+  outerRadius: 153,
+} , [
+{chr: 'chr11', start: '272', end: '795', color: 'blue', des: 'source: ChIP_Atlas_DNase_seq<br>coordinate: chr11:16851175-16851698', html: 'source: ChIP_Atlas_DNase_seq<br>coordinate: chr11:16851175-16851698' },
+{chr: 'chr11', start: '286', end: '773', color: 'blue', des: 'source: ChIP_Atlas_DNase_seq<br>coordinate: chr11:16851189-16851676', html: 'source: ChIP_Atlas_DNase_seq<br>coordinate: chr11:16851189-16851676' },
+]];

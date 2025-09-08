@@ -1,0 +1,93 @@
+chr9	83101853	83103898	SRX4928874	311	mm10	Histone	H3K4me1	Pancreas	Pancreas
+chr9	83101964	83102883	SRX8026852	140	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83101965	83102473	SRX2853319	289	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83101972	83102528	SRX2853280	339	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83101980	83103132	SRX15209544	210	mm10	Histone	H3K4me1	Pancreas	KPC1199
+chr9	83101985	83102407	SRX2853320	478	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83101990	83102352	SRX2853317	312	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83101993	83102280	SRX2853318	383	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102005	83103208	SRX15209543	238	mm10	Histone	H3K4me1	Pancreas	KPC1199
+chr9	83102022	83102494	SRX2853267	128	mm10	Histone	H3K27ac	Pancreas	Pancreatic organoid
+chr9	83102024	83102303	SRX15209541	119	mm10	Histone	H3K27ac	Pancreas	KPC1199
+chr9	83102028	83102529	SRX2853271	224	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102029	83102517	SRX2853265	138	mm10	Histone	H3K27ac	Pancreas	Pancreatic organoid
+chr9	83102029	83102923	SRX2853277	269	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102034	83102499	SRX2853272	189	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102037	83102458	SRX2853268	137	mm10	Histone	H3K27ac	Pancreas	Pancreatic organoid
+chr9	83102039	83102931	SRX2853285	165	mm10	Histone	H3K4me1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102045	83102279	SRX15209542	139	mm10	Histone	H3K27ac	Pancreas	KPC1199
+chr9	83102060	83102790	SRX8026851	119	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83102062	83102449	SRX2853273	127	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102085	83102672	SRX3262435	107	mm10	Histone	H3K4me1	Pancreas	Pancreas
+chr9	83102090	83102331	SRX6437844	79	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83102134	83102953	SRX8026854	182	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83102237	83102536	SRX2853282	114	mm10	Histone	H3K4me1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102247	83102395	SRX2853331	118	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102489	83102882	SRX3262434	70	mm10	Histone	H3K4me1	Pancreas	Pancreas
+chr9	83102615	83102789	SRX6854374	142	mm10	Histone	H3K4me1	Pancreas	Pancreatic cancer cells
+chr9	83102623	83102949	SRX2853280	120	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102640	83102926	SRX2853271	110	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102676	83102865	SRX2853268	79	mm10	Histone	H3K27ac	Pancreas	Pancreatic organoid
+chr9	83103214	83103397	SRX2853282	85	mm10	Histone	H3K4me1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103231	83103896	SRX15209544	276	mm10	Histone	H3K4me1	Pancreas	KPC1199
+chr9	83103260	83103904	SRX3262435	176	mm10	Histone	H3K4me1	Pancreas	Pancreas
+chr9	83103277	83103912	SRX2853277	666	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103286	83103912	SRX2853268	290	mm10	Histone	H3K27ac	Pancreas	Pancreatic organoid
+chr9	83103295	83103887	SRX2853265	214	mm10	Histone	H3K27ac	Pancreas	Pancreatic organoid
+chr9	83103296	83103736	SRX2853266	125	mm10	Histone	H3K27ac	Pancreas	Pancreatic organoid
+chr9	83103302	83103890	SRX2853271	268	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103306	83103869	SRX15209543	294	mm10	Histone	H3K4me1	Pancreas	KPC1199
+chr9	83103306	83103906	SRX15209541	379	mm10	Histone	H3K27ac	Pancreas	KPC1199
+chr9	83103308	83103883	SRX2853273	230	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103310	83103870	SRX2853267	139	mm10	Histone	H3K27ac	Pancreas	Pancreatic organoid
+chr9	83103311	83103889	SRX2853272	265	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103313	83103760	SRX11472096	136	mm10	Histone	H3K27ac	Pancreas	Pancreatic epithelial cells
+chr9	83103314	83103617	SRX15209546	124	mm10	Histone	H3K27ac	Pancreas	KPC1199
+chr9	83103314	83103801	SRX2853270	107	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103315	83103779	SRX6854374	150	mm10	Histone	H3K4me1	Pancreas	Pancreatic cancer cells
+chr9	83103330	83103767	SRX2853285	261	mm10	Histone	H3K4me1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103331	83103883	SRX2853333	170	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103345	83103858	SRX2853331	174	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103353	83103856	SRX2853279	291	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103374	83103868	SRX6437843	138	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83103374	83103913	SRX15209542	443	mm10	Histone	H3K27ac	Pancreas	KPC1199
+chr9	83103377	83103863	SRX2853320	296	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103380	83103753	SRX8026854	195	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83103385	83103769	SRX8026855	192	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83103386	83103898	SRX4928870	123	mm10	Histone	H3K27ac	Pancreas	Pancreas
+chr9	83103396	83103771	SRX8026853	202	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83103398	83103777	SRX8026857	126	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83103402	83103630	SRX2853269	70	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103405	83103896	SRX8026851	285	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83103406	83103862	SRX6437844	173	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83103416	83103862	SRX8026858	268	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83103448	83103823	SRX8026852	204	mm10	Histone	H3K27ac	Pancreas	Pancreatic adenocarcinoma
+chr9	83103459	83103839	SRX17640935	96	mm10	Histone	H3K27ac	Pancreas	MIN6
+chr9	83103464	83103649	SRX2853309	87	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103482	83103744	SRX15209547	116	mm10	Histone	H3K27ac	Pancreas	KPC1199
+chr9	83103486	83103891	SRX15209549	125	mm10	Histone	H3K27ac	Pancreas	KPC1199
+chr9	83103489	83103742	SRX2853280	448	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103490	83103708	SRX2853317	205	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103500	83103793	SRX2853336	183	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103513	83103660	SRX2853282	79	mm10	Histone	H3K4me1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103513	83103857	SRX2853278	169	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103517	83103744	SRX2853319	227	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103522	83103695	SRX2853318	228	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103528	83103682	SRX6854375	98	mm10	Histone	H3K4me1	Pancreas	Pancreatic cancer cells
+chr9	83103529	83103853	SRX9649141	221	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103556	83103852	SRX9649139	114	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103557	83103814	SRX2853286	84	mm10	Histone	H3K4me1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103579	83103776	SRX2853274	76	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103930	83104173	SRX6595708	173	mm10	Histone	H3K4me1	Pancreas	Islets of Langerhans
+chr9	83103947	83104155	SRX6595705	129	mm10	Histone	H3K4me1	Pancreas	Islets of Langerhans
+chr9	83104065	83104393	SRX11472095	82	mm10	Histone	H3K27ac	Pancreas	Pancreatic epithelial cells
+chr9	83104078	83104445	SRX15209541	206	mm10	Histone	H3K27ac	Pancreas	KPC1199
+chr9	83104084	83104602	SRX20599684	92	mm10	Histone	H3K27ac	Pancreas	MIN6
+chr9	83104094	83104756	SRX2853277	328	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83104103	83104358	SRX2853268	119	mm10	Histone	H3K27ac	Pancreas	Pancreatic organoid
+chr9	83104126	83104442	SRX2853272	125	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83104129	83104412	SRX11472096	92	mm10	Histone	H3K27ac	Pancreas	Pancreatic epithelial cells
+chr9	83104130	83104332	SRX17640935	109	mm10	Histone	H3K27ac	Pancreas	MIN6
+chr9	83104143	83104550	SRX15209543	220	mm10	Histone	H3K4me1	Pancreas	KPC1199
+chr9	83104145	83104424	SRX15209544	101	mm10	Histone	H3K4me1	Pancreas	KPC1199
+chr9	83104234	83104428	SRX2853271	107	mm10	Histone	H3K27ac	Pancreas	Pancreatic ductal adenocarcinoma

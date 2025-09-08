@@ -1,0 +1,13 @@
+chr11	16833377	16833482	SRX9607968	89	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreas
+chr11	16836007	16836258	SRX18291284	110	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic beta cells
+chr11	16836020	16836237	SRX11495218	166	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Islets of Langerhans
+chr11	16836164	16836276	SRX14461724	153	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreas
+chr11	16836172	16836300	SRX19303382	112	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic acinar cells
+chr11	16839467	16839731	SRX18193250	157	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic beta cells
+chr11	16839468	16839659	SRX11951864	175	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Islets of Langerhans
+chr11	16839472	16839737	SRX18193248	139	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic beta cells
+chr11	16839479	16839673	SRX11951863	91	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Islets of Langerhans
+chr11	16839486	16839725	SRX18193249	141	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic beta cells
+chr11	16839503	16839596	SRX11951865	117	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Islets of Langerhans
+chr11	16839530	16839657	SRX11951870	138	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Islets of Langerhans
+chr11	16841385	16841495	SRX16113777	98	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic ductal adenocarcinoma

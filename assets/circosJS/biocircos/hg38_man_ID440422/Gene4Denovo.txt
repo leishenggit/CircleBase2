@@ -1,0 +1,1 @@
+chr1	168081964	168081964	G	A	Proband-241	Mix	WGS	Hakon Jonsson et al. Nature 2017	28959963

@@ -1,0 +1,53 @@
+var Chromatin_access_ATACdb = [ "ARC_Chromatin_access_ATACdb" , {
+  innerRadius: 120,
+  outerRadius: 135,
+} , [
+{chr: 'chr7', start: '0', end: '1085', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212097-55213182', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212097-55213182' },
+{chr: 'chr7', start: '10', end: '980', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212107-55213077', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212107-55213077' },
+{chr: 'chr7', start: '1065', end: '1771', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55213162-55213868', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55213162-55213868' },
+{chr: 'chr7', start: '1180', end: '1415', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55213277-55213512', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55213277-55213512' },
+{chr: 'chr7', start: '1221', end: '1678', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55213318-55213775', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55213318-55213775' },
+{chr: 'chr7', start: '1243', end: '1672', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55213340-55213769', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55213340-55213769' },
+{chr: 'chr7', start: '1332', end: '1672', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55213429-55213769', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55213429-55213769' },
+{chr: 'chr7', start: '675', end: '1074', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212772-55213171', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212772-55213171' },
+{chr: 'chr7', start: '708', end: '1093', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212805-55213190', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212805-55213190' },
+{chr: 'chr7', start: '722', end: '1128', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212819-55213225', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212819-55213225' },
+{chr: 'chr7', start: '799', end: '1151', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212896-55213248', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212896-55213248' },
+{chr: 'chr7', start: '869', end: '1151', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212966-55213248', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212966-55213248' },
+{chr: 'chr7', start: '887', end: '1058', color: '#CCCCFF', des: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212984-55213155', html: 'source: Chromatin_access_ATACdb<br>coordinate: chr7:55212984-55213155' },
+]];
+var Chromatin_access_TCGA_ATAC = [ "ARC_Chromatin_access_TCGA_ATAC" , {
+  innerRadius: 138,
+  outerRadius: 153,
+} , [
+{chr: 'chr7', start: '1568', end: '2069', color: 'purple', des: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55213665-55214166', html: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55213665-55214166' },
+{chr: 'chr7', start: '1573', end: '2074', color: 'purple', des: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55213670-55214171', html: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55213670-55214171' },
+{chr: 'chr7', start: '479', end: '980', color: 'purple', des: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55212576-55213077', html: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55212576-55213077' },
+{chr: 'chr7', start: '561', end: '1062', color: 'purple', des: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55212658-55213159', html: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55212658-55213159' },
+{chr: 'chr7', start: '861', end: '1362', color: 'purple', des: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55212958-55213459', html: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55212958-55213459' },
+{chr: 'chr7', start: '927', end: '1428', color: 'purple', des: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55213024-55213525', html: 'source: Chromatin_access_TCGA_ATAC<br>coordinate: chr7:55213024-55213525' },
+]];
+var Chromatin_access_ENCODE_DHS = [ "ARC_Chromatin_access_ENCODE_DHS" , {
+  innerRadius: 156,
+  outerRadius: 171,
+} , [
+{chr: 'chr7', start: '1038', end: '1188', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213135-55213285', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213135-55213285' },
+{chr: 'chr7', start: '1091', end: '1241', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213188-55213338', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213188-55213338' },
+{chr: 'chr7', start: '1098', end: '1248', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213195-55213345', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213195-55213345' },
+{chr: 'chr7', start: '1158', end: '1308', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213255-55213405', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213255-55213405' },
+{chr: 'chr7', start: '1159', end: '1309', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213256-55213406', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213256-55213406' },
+{chr: 'chr7', start: '1194', end: '1344', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213291-55213441', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213291-55213441' },
+{chr: 'chr7', start: '1248', end: '1398', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213345-55213495', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213345-55213495' },
+{chr: 'chr7', start: '1252', end: '1402', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213349-55213499', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213349-55213499' },
+{chr: 'chr7', start: '1258', end: '1408', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213355-55213505', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213355-55213505' },
+{chr: 'chr7', start: '1278', end: '1428', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213375-55213525', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213375-55213525' },
+{chr: 'chr7', start: '1298', end: '1448', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213395-55213545', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213395-55213545' },
+{chr: 'chr7', start: '1338', end: '1488', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213435-55213585', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213435-55213585' },
+{chr: 'chr7', start: '1398', end: '1548', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213495-55213645', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213495-55213645' },
+{chr: 'chr7', start: '1418', end: '1568', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213515-55213665', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213515-55213665' },
+{chr: 'chr7', start: '1438', end: '1588', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213535-55213685', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213535-55213685' },
+{chr: 'chr7', start: '920', end: '1070', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213017-55213167', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213017-55213167' },
+{chr: 'chr7', start: '950', end: '1100', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213047-55213197', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213047-55213197' },
+{chr: 'chr7', start: '978', end: '1128', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213075-55213225', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213075-55213225' },
+{chr: 'chr7', start: '998', end: '1148', color: 'blue', des: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213095-55213245', html: 'source: Chromatin_access_ENCODE_DHS<br>coordinate: chr7:55213095-55213245' },
+]];

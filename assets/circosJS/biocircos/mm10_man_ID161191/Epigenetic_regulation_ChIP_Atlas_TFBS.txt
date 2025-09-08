@@ -1,0 +1,3 @@
+chr11	16851027	16851361	SRX6437850	186	mm10	TFs and others	Junb	Pancreas	Pancreatic adenocarcinoma
+chr11	16851123	16851284	SRX4578564	130	mm10	TFs and others	Smad2	Pancreas	Pancreatic ductal adenocarcinoma
+chr11	16851130	16851331	SRX4578561	120	mm10	TFs and others	Epitope tags	Pancreas	Pancreatic ductal adenocarcinoma

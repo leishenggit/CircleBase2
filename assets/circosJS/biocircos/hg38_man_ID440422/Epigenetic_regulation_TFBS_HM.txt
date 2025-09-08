@@ -1,0 +1,368 @@
+chr1	168081869	168082658	ENCODE_0915	ZNF600	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168081990	168082665	ENCODE_0916	ZNF600	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082219	168082478	ENCODE_0917	BCL11A	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082266	168082498	ENCODE_0931	PRDM1	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082280	168082576	ENCODE_0932	PRDM1	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082115	168082694	ENCODE_0936	ZNF366	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082210	168082721	ENCODE_0939	ZNF394	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168081931	168082507	ENCODE_0963	PRDM10	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082057	168082513	ENCODE_0964	PRDM10	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082465	168082859	ENCODE_0973	ZNF680	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168081955	168082632	ENCODE_0987	ZFP37	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082338	168082604	ENCODE_0988	ZFP37	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082211	168082516	ENCODE_0989	ZFP69B	ENCODE: TF	Cell Line	293
+chr1	168082233	168082560	ENCODE_0990	ZFP69B	ENCODE: TF	Cell Line	293
+chr1	168082009	168082479	ENCODE_0993	ZFP2	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082322	168082770	ENCODE_0995	ZEB2	Helix-turn-helix domains	Cell Line	293
+chr1	168081936	168082520	ENCODE_0996	ZEB2	Helix-turn-helix domains	Cell Line	293
+chr1	168082180	168082540	ENCODE_0997	ZNF692	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082086	168082531	ENCODE_0998	ZNF692	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082197	168082430	ENCODE_1001	GFI1B	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082108	168082461	ENCODE_1004	ZNF558	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082130	168082595	ENCODE_1007	ZNF501	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082198	168082449	ENCODE_1017	ZBTB8A	TcoF: TF	Cell Line	293
+chr1	168082068	168082457	ENCODE_1018	ZBTB8A	TcoF: TF	Cell Line	293
+chr1	168082248	168082504	ENCODE_1019	GLIS1	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082015	168082519	ENCODE_1025	ZNF414	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082067	168082362	ENCODE_1026	ZNF414	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082189	168082870	ENCODE_1035	ZXDB	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082008	168082515	ENCODE_1049	ZBTB17	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168081850	168082610	ENCODE_1050	ZBTB17	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082769	168083074	ENCODE_1054	ZNF580	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082743	168083054	ENCODE_1057	ZNF146	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082733	168083087	ENCODE_1058	ZNF146	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168081517	168082077	ENCODE_1071	ZNF362	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168081636	168082031	ENCODE_1072	ZNF362	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082330	168082722	ENCODE_1093	IKZF2	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082200	168082540	ENCODE_1094	IKZF2	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168081873	168082154	ENCODE_1100	ZNF707	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168081956	168082466	ENCODE_1103	ZNF382	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082137	168082517	ENCODE_1128	ZNF18	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082818	168083139	Cistrome_0514	AR	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082782	168083163	Cistrome_0515	AR	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082820	168083101	Cistrome_0517	AR	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082793	168083115	Cistrome_0518	AR	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	168082282	168082441	Cistrome_0933	MYC	Basic domains	Cell Line	293
+chr1	168082230	168082454	Cistrome_1494	POLR2A	ENCODE: TF	Cell Line	293
+chr1	168082163	168082558	Cistrome_1495	POLR2A	ENCODE: TF	Cell Line	293
+chr1	168082200	168082581	Cistrome_1926	TRIM28	ENCODE: TF	Cell Line	293
+chr1	168082205	168082483	Cistrome_1929	TRIM28	ENCODE: TF	Cell Line	293
+chr1	168082290	168082438	Cistrome_1931	TRIM28	ENCODE: TF	Cell Line	293
+chr1	168082258	168082703	Cistrome_1932	TRIM28	ENCODE: TF	Cell Line	293
+chr1	168082158	168082712	Cistrome_2315	TRIM28	ENCODE: TF	Cell Line	293
+chr1	168082786	168083001	Cistrome_0846	FOXA1	Helix-turn-helix domains	Cell Line	VCaP
+chr1	168081790	168081989	Cistrome_3342	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr1	168082077	168082354	Cistrome_3342	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr1	168081301	168081960	GTRD_0024	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr1	168082225	168082480	Cistrome_2546	POLR2A	ENCODE: TF	Cell Line	HCT116
+chr1	168081762	168082084	Cistrome_2552	SP1	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr1	168082196	168082470	Cistrome_2634	POLR2A	ENCODE: TF	Cell Line	HCT116
+chr1	168082248	168082546	Cistrome_2635	POLR2A	ENCODE: TF	Cell Line	HCT116
+chr1	168082149	168082344	Cistrome_0116	POLR2A	ENCODE: TF	Cell Line	HCT116
+chr1	168082354	168082528	Cistrome_0242	POLR2A	ENCODE: TF	Cell Line	HCT116
+chr1	168082318	168082467	Cistrome_0387	EP300	ENCODE: TF	Cell Line	HCT116
+chr1	168082145	168082338	Cistrome_1115	POLR2A	ENCODE: TF	Cell Line	HCT116
+chr1	168082124	168082397	Cistrome_1116	POLR2A	ENCODE: TF	Cell Line	HCT116
+chr1	168082170	168082316	Cistrome_1118	POLR2A	ENCODE: TF	Cell Line	HCT116
+chr1	168082254	168082521	ENCODE_0481	FOSL1	Basic domains	Cell Line	HCT116
+chr1	168082253	168082556	ENCODE_0486	USF1	Basic domains	Cell Line	HCT116
+chr1	168082249	168082466	ENCODE_0487	EGR1	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr1	168082226	168082531	ENCODE_0488	JUND	Basic domains	Cell Line	HCT116
+chr1	168082283	168082468	ENCODE_0490	SRF	alpha-Helices exposed by beta-structures	Cell Line	HCT116
+chr1	168082297	168082487	ENCODE_0491	CEBPB	Basic domains	Cell Line	HCT116
+chr1	168082237	168082545	ENCODE_0493	SP1	Zinc-coordinating DNA-binding domains	Cell Line	HCT116
+chr1	168082213	168082551	ENCODE_0495	MAX	Basic domains	Cell Line	HCT116
+chr1	168082260	168082493	ENCODE_0500	POLR2A	ENCODE: TF	Cell Line	HCT116
+chr1	168082328	168082498	Remap_0371	ATF3	Basic domains	Cell Line	HCT116
+chr1	168082357	168082473	Remap_0373	ATF3	Basic domains	Cell Line	HCT116
+chr1	168082236	168082401	Cistrome_2984	RELA	Immunoglobulin fold	Cell Line	MCF-7
+chr1	168082276	168082459	Cistrome_1065	FOXA1	Helix-turn-helix domains	Cell Line	MCF-7
+chr1	168082298	168082497	Cistrome_1868	FOXA1	Helix-turn-helix domains	Cell Line	MCF-7
+chr1	168082313	168082513	ENCODE_0221	FOSL2	Basic domains	Cell Line	MCF-7
+chr1	168082283	168082456	ENCODE_0238	REST	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr1	168082250	168082448	ENCODE_0241	MYC	Basic domains	Cell Line	MCF-7
+chr1	168082259	168082428	ENCODE_0255	MYC	Basic domains	Cell Line	MCF-7
+chr1	168081898	168082806	GTRD_0042	TP53	Immunoglobulin fold	Cell Line	MCF-7
+chr1	168082121	168082644	GTRD_0055	TP53	Immunoglobulin fold	Cell Line	MCF-7
+chr1	168082186	168082517	Remap_0011	TFAP2C	Basic domains	Cell Line	MCF-7
+chr1	168082186	168082517	Remap_0079	TFAP2C	Basic domains	Cell Line	MCF-7
+chr1	168082289	168082453	Remap_0385	ZNF143	Zinc-coordinating DNA-binding domains	Cell Line	MCF-7
+chr1	168082155	168082292	ChIP-Atlas_0203	SMARCA4	TcoF: TF	Primary Cel	keratinocyte
+chr1	168082457	168082667	Cistrome_0637	SNAI2	Zinc-coordinating DNA-binding domains	Primary Cel	keratinocyte
+chr1	168082416	168082562	Cistrome_0638	SNAI2	Zinc-coordinating DNA-binding domains	Primary Cel	keratinocyte
+chr1	168082179	168082528	Cistrome_0682	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082231	168082515	Cistrome_0684	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082213	168082380	Cistrome_0685	TP53	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082137	168082422	Cistrome_0687	TP53	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082218	168082516	Cistrome_0688	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082146	168082533	Cistrome_0690	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082192	168082373	Cistrome_0692	TP53	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082201	168082451	Cistrome_1258	POLR2A	ENCODE: TF	Primary Cel	keratinocyte
+chr1	168082222	168082498	Cistrome_1259	POLR2A	ENCODE: TF	Primary Cel	keratinocyte
+chr1	168082277	168082423	Cistrome_1260	EP300	ENCODE: TF	Primary Cel	keratinocyte
+chr1	168082310	168082466	Cistrome_1261	EP300	ENCODE: TF	Primary Cel	keratinocyte
+chr1	168082267	168082525	Cistrome_1677	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082252	168082509	Cistrome_1678	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082207	168082556	Cistrome_1749	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082275	168082506	Cistrome_2050	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082272	168082470	Remap_0074	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082262	168082504	Remap_0075	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082224	168082526	Remap_0241	RCOR1	Helix-turn-helix domains	Primary Cel	keratinocyte
+chr1	168082109	168082400	Remap_0242	ZNF750	TcoF: TF	Primary Cel	keratinocyte
+chr1	168082198	168082639	Remap_0293	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168082298	168082520	Remap_0294	TP63	Immunoglobulin fold	Primary Cel	keratinocyte
+chr1	168081962	168082409	Cistrome_0956	NR3C1	Zinc-coordinating DNA-binding domains	Primary Cel	macrophage
+chr1	168081490	168081774	ChIP-Atlas_1119	ZBTB48	Zinc-coordinating DNA-binding domains	Cell Line	U2OS
+chr1	168082197	168082458	Cistrome_1935	TRIM28	ENCODE: TF	Cell Line	U2OS
+chr1	168082308	168082527	Cistrome_1936	TRIM28	ENCODE: TF	Cell Line	U2OS
+chr1	168082350	168082542	ENCODE_0143	SETDB1	ENCODE: TF	Cell Line	U2OS
+chr1	168082189	168082523	ENCODE_0165	TRIM28	ENCODE: TF	Cell Line	U2OS
+chr1	168082209	168082365	Cistrome_0229	RELA	Immunoglobulin fold	Cell Line	HUVEC
+chr1	168082278	168082424	Cistrome_0508	RELA	Immunoglobulin fold	Cell Line	HUVEC
+chr1	168082209	168082406	Cistrome_2109	RELA	Immunoglobulin fold	Cell Line	HUVEC
+chr1	168082270	168082463	ENCODE_0376	FOS	Basic domains	Cell Line	HUVEC
+chr1	168082260	168082567	ENCODE_0377	FOS	Basic domains	Cell Line	HUVEC
+chr1	168082278	168082424	ENCODE_0379	POLR2A	ENCODE: TF	Cell Line	HUVEC
+chr1	168082326	168082498	ENCODE_0382	POLR2A	ENCODE: TF	Cell Line	HUVEC
+chr1	168082314	168082536	ENCODE_0389	JUN	Basic domains	Cell Line	HUVEC
+chr1	168082248	168082572	ENCODE_0393	FOS	Basic domains	Cell Line	HUVEC
+chr1	168082210	168082603	ChIP-Atlas_0572	EP300	ENCODE: TF	Cell Line	ZR-75-30
+chr1	168082248	168082548	Cistrome_2505	SMARCB1	TcoF: TF	Cell Line	G401
+chr1	168082331	168082530	Cistrome_2506	SMARCC1	Helix-turn-helix domains	Cell Line	G401
+chr1	168082288	168082546	ChIP-Atlas_0310	SMARCA4	TcoF: TF	Cell Line	BT16
+chr1	168082214	168082511	Cistrome_3229	GATA3	Zinc-coordinating DNA-binding domains	Cell Line	MDA-MB-231
+chr1	168082316	168082493	Cistrome_0008	FOXM1	Helix-turn-helix domains	Cell Line	MDA-MB-231
+chr1	168082075	168082221	Cistrome_0429	XBP1	Basic domains	Cell Line	MDA-MB-231
+chr1	168082160	168082618	Remap_0288	JUN	Basic domains	Cell Line	MDA-MB-231
+chr1	168082280	168082501	Remap_0201	TCF7L2	Other all-alpha-helical DNA-binding domains	Cell Line	LNCAP
+chr1	168082189	168082511	Cistrome_2836	NFIA	beta-Hairpin exposed by an alpha/beta-scaffold	Cell Line	K562
+chr1	168082360	168082532	ENCODE_1319	FOSL1	Basic domains	Cell Line	K562
+chr1	168082311	168082462	ENCODE_1320	FOSL1	Basic domains	Cell Line	K562
+chr1	168081521	168081895	ENCODE_1505	ZBTB33	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr1	168081456	168081705	ENCODE_1506	ZBTB33	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr1	168082345	168082515	Cistrome_1821	FOS	Basic domains	Cell Line	K562
+chr1	168082336	168082482	Cistrome_2302	JUND	Basic domains	Cell Line	K562
+chr1	168082290	168082483	ENCODE_0094	FOS	Basic domains	Cell Line	K562
+chr1	168081227	168082487	GTRD_0030	WT1	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr1	168082320	168082596	Cistrome_0153	PAX5	Helix-turn-helix domains	Cell Line	Raji
+chr1	168082069	168082228	Cistrome_3737	MBD3	TcoF: TF	Cell Line	HeLa-S3
+chr1	168082550	168082680	Cistrome_3737	MBD3	TcoF: TF	Cell Line	HeLa-S3
+chr1	168081499	168081816	ChIP-Atlas_1114	ZBTB48	Zinc-coordinating DNA-binding domains	Cell Line	HeLa-S3
+chr1	168082248	168082463	Cistrome_0168	RB1	ENCODE: TF	Cell Line	HeLa-S3
+chr1	168082246	168082490	Cistrome_0735	AFF4	TcoF: TF	Cell Line	HeLa-S3
+chr1	168082080	168082259	Cistrome_0921	POLR2A	ENCODE: TF	Cell Line	HeLa-S3
+chr1	168082276	168082559	Cistrome_0957	EP300	ENCODE: TF	Cell Line	HeLa-S3
+chr1	168082221	168082494	Cistrome_0958	EP300	ENCODE: TF	Cell Line	HeLa-S3
+chr1	168082216	168082565	Cistrome_0959	EP300	ENCODE: TF	Cell Line	HeLa-S3
+chr1	168082140	168082546	Cistrome_0960	EP300	ENCODE: TF	Cell Line	HeLa-S3
+chr1	168082280	168082432	Cistrome_1793	SMARCC1	Helix-turn-helix domains	Cell Line	HeLa-S3
+chr1	168082235	168082527	Cistrome_1808	RELA	Immunoglobulin fold	Cell Line	HeLa-S3
+chr1	168082235	168082476	Cistrome_1809	RELA	Immunoglobulin fold	Cell Line	HeLa-S3
+chr1	168082250	168082495	Cistrome_2121	POLR2A	ENCODE: TF	Cell Line	HeLa-S3
+chr1	168082264	168082431	Cistrome_2198	STAT1	Immunoglobulin fold	Cell Line	HeLa-S3
+chr1	168082135	168082425	Cistrome_2207	TFAP2C	Basic domains	Cell Line	HeLa-S3
+chr1	168082280	168082432	Cistrome_2344	SMARCC1	Helix-turn-helix domains	Cell Line	HeLa-S3
+chr1	168082264	168082436	ENCODE_0079	STAT1	Immunoglobulin fold	Cell Line	HeLa-S3
+chr1	168082270	168082421	Remap_0125	AFF4	TcoF: TF	Cell Line	HeLa-S3
+chr1	168082300	168082507	ChIP-Atlas_0879	NKX2-1	Helix-turn-helix domains	Cell Line	A549
+chr1	168082251	168082492	Cistrome_2102	RELA	Immunoglobulin fold	Cell Line	A549
+chr1	168082179	168082474	Cistrome_2103	RELA	Immunoglobulin fold	Cell Line	A549
+chr1	168082281	168082430	ENCODE_0636	JUN	Basic domains	Cell Line	A549
+chr1	168082190	168082456	Cistrome_2424	POLR2A	ENCODE: TF	Cell Line	A375
+chr1	168082105	168082562	Remap_0131	TFAP2C	Basic domains	Cell Line	A375
+chr1	168082244	168082532	ChIP-Atlas_0843	STAT3	Immunoglobulin fold	Cell Line	MDA-MB-468
+chr1	168082267	168082549	ChIP-Atlas_0844	STAT3	Immunoglobulin fold	Cell Line	MDA-MB-468
+chr1	168082238	168082529	Cistrome_0205	GRHL2	Immunoglobulin fold	Other	HBE
+chr1	168082241	168082610	Cistrome_0206	GRHL2	Immunoglobulin fold	Other	HBE
+chr1	168081847	168082206	Cistrome_1247	SPI1	Helix-turn-helix domains	Cell Line	786-O
+chr1	168082222	168082368	ENCODE_1230	BHLHE40	TcoF: TF	Cell Line	IMR-90
+chr1	168082242	168082428	Cistrome_0073	EP300	ENCODE: TF	Cell Line	IMR-90
+chr1	168082285	168082431	ENCODE_0063	RCOR1	Helix-turn-helix domains	Cell Line	IMR-90
+chr1	168082206	168082408	Remap_0250	TP53	Immunoglobulin fold	Cell Line	IMR-90
+chr1	168082296	168082602	ChIP-Atlas_1328	NFIC	beta-Hairpin exposed by an alpha/beta-scaffold	Cell Line	HepG2
+chr1	168082348	168082496	ENCODE_0441	FOSL2	Basic domains	Cell Line	HepG2
+chr1	168082289	168082580	ChIP-Atlas_1144	PBX4	Helix-turn-helix domains	Cell Line	PC-3
+chr1	168082315	168082609	ENCODE_0885	MTA2	TcoF: TF	Cell Line	GM12878
+chr1	168082266	168082574	ENCODE_0903	IKZF1	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr1	168082118	168082661	ENCODE_0904	IKZF1	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr1	168082229	168082363	ChIP-Atlas_1175	RELB	Immunoglobulin fold	Cell Line	GM12878
+chr1	168082244	168082443	ChIP-Atlas_1176	RELB	Immunoglobulin fold	Cell Line	GM12878
+chr1	168082179	168082457	Cistrome_1705	RELA	Immunoglobulin fold	Cell Line	GM12878
+chr1	168082191	168082595	ENCODE_0130	EBF1	Immunoglobulin fold	Cell Line	GM12878
+chr1	168082291	168082487	ENCODE_0138	BHLHE40	TcoF: TF	Cell Line	GM12878
+chr1	168082209	168082407	ENCODE_0146	RELA	Immunoglobulin fold	Cell Line	GM12878
+chr1	168082287	168082470	ENCODE_0170	ZNF143	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr1	168082305	168082451	ENCODE_0575	MYC	Basic domains	Cell Line	GM12878
+chr1	168082258	168082419	ENCODE_0588	RUNX3	Immunoglobulin fold	Cell Line	GM12878
+chr1	168082305	168082491	ENCODE_0597	PAX5	Helix-turn-helix domains	Cell Line	GM12878
+chr1	168082238	168082545	ENCODE_0599	EBF1	Immunoglobulin fold	Cell Line	GM12878
+chr1	168082333	168082479	ENCODE_0601	BCL11A	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr1	168082433	168082628	ENCODE_0602	TCF12	Basic domains	Cell Line	GM12878
+chr1	168082305	168082492	ENCODE_0606	YY1	Zinc-coordinating DNA-binding domains	Cell Line	GM12878
+chr1	168082250	168082452	ENCODE_0615	POLR2A	ENCODE: TF	Cell Line	GM12878
+chr1	168082237	168082420	ENCODE_0621	SPI1	Helix-turn-helix domains	Cell Line	GM12878
+chr1	168082295	168082520	ENCODE_0625	BATF	Basic domains	Cell Line	GM12878
+chr1	168081985	168082131	Cistrome_0732	TRIM28	ENCODE: TF	Cell Line	H1
+chr1	168082276	168082423	ENCODE_0541	YY1	Zinc-coordinating DNA-binding domains	Cell Line	H1
+chr1	168082279	168082487	ENCODE_0542	JUND	Basic domains	Cell Line	H1
+chr1	168082066	168082598	Cistrome_2455	FLI1	Helix-turn-helix domains	Cell Line	A673
+chr1	168082087	168082638	Cistrome_2456	FLI1	Helix-turn-helix domains	Cell Line	A673
+chr1	168081789	168082731	GTRD_0046	SRF	alpha-Helices exposed by beta-structures	Cell Line	A673
+chr1	168082204	168082475	ChIP-Atlas_1244	TP53	Immunoglobulin fold	Cell Line	SW480
+chr1	168082317	168082539	Remap_0262	PROX1	Helix-turn-helix domains	Cell Line	SW480
+chr1	168082128	168082475	Cistrome_2014	BCL6	Zinc-coordinating DNA-binding domains	Cell Line	OCI-LY1
+chr1	168082387	168082496	Remap_0437	RBPJ	Immunoglobulin fold	Cell Line	NHEK
+chr1	168082266	168082520	Cistrome_2146	MAX	Basic domains	Cell Line	U87
+chr1	168082234	168082448	ENCODE_0175	REST	Zinc-coordinating DNA-binding domains	Cell Line	U87
+chr1	168082312	168082464	ENCODE_0176	POLR2A	ENCODE: TF	Cell Line	U87
+chr1	168082028	168082347	Cistrome_1090	POLR2A	ENCODE: TF	Cell Line	HMEC
+chr1	168082339	168082488	Cistrome_3488	ZNF184	Zinc-coordinating DNA-binding domains	Cell Line	293Trex
+chr1	168082388	168082523	Cistrome_3548	ZNF440	Zinc-coordinating DNA-binding domains	Cell Line	293Trex
+chr1	168082575	168082835	Cistrome_3689	ZNF680	Zinc-coordinating DNA-binding domains	Cell Line	293Trex
+chr1	168082582	168082802	Cistrome_3690	ZNF680	Zinc-coordinating DNA-binding domains	Cell Line	293Trex
+chr1	168082231	168082475	ENCODE_0186	POLR2A	ENCODE: TF	Cell Line	SK-N-MC
+chr1	168082208	168082420	Cistrome_2056	ESR1	Zinc-coordinating DNA-binding domains	Cell Line	ZR-75-1
+chr1	168082269	168082889	Cistrome_1263	MEF2B	alpha-Helices exposed by beta-structures	Cell Line	HEK293A
+chr1	168082282	168082903	Cistrome_1266	MEF2B	alpha-Helices exposed by beta-structures	Cell Line	HEK293A
+chr1	168082169	168082384	Cistrome_3814	CTCF	Zinc-coordinating DNA-binding domains	Cell Line	RH4
+chr1	168082315	168082565	Cistrome_2469	FOSL1	Basic domains	Cell Line	BT-549
+chr1	168082306	168082487	Cistrome_2470	JUN	Basic domains	Cell Line	BT-549
+chr1	168082297	168082461	Cistrome_3871	MITF	Basic domains	Cell Line	501-Mel
+chr1	168082480	168082736	Cistrome_3873	SMARCA4	TcoF: TF	Cell Line	501-Mel
+chr1	168082552	168082767	Cistrome_3874	SMARCA4	TcoF: TF	Cell Line	501-Mel
+chr1	168082464	168082756	Cistrome_3876	SMARCA4	TcoF: TF	Cell Line	501-Mel
+chr1	168082384	168082595	Cistrome_3879	PGR	Zinc-coordinating DNA-binding domains	Cell Line	AB32
+chr1	168082245	168082515	Cistrome_3933	NR3C1	Zinc-coordinating DNA-binding domains	Cell Line	BEAS-2B
+chr1	168082283	168082526	Cistrome_3935	NR3C1	Zinc-coordinating DNA-binding domains	Cell Line	BEAS-2B
+chr1	168082243	168082453	Cistrome_3936	NR3C1	Zinc-coordinating DNA-binding domains	Cell Line	BEAS-2B
+chr1	168082270	168082510	Cistrome_3993	TRIM28	ENCODE: TF	Cell Line	BJAB
+chr1	168082242	168082449	Cistrome_4007	ESR1	Zinc-coordinating DNA-binding domains	Cell Line	BT-474
+chr1	168082131	168082458	Cistrome_4014	TFAP2C	Basic domains	Cell Line	BT-474
+chr1	168082213	168082364	Cistrome_4096	MITF	Basic domains	Cell Line	COLO-829
+chr1	168083482	168084008	Cistrome_4113	NEUROD1	Basic domains	Cell Line	D-341
+chr1	168083446	168084043	Cistrome_4122	NEUROD1	Basic domains	Cell Line	D-341
+chr1	168082205	168082549	Cistrome_4127	RELA	Immunoglobulin fold	Cell Line	Detroit_562
+chr1	168082191	168082519	Cistrome_4128	RELA	Immunoglobulin fold	Cell Line	Detroit_562
+chr1	168082101	168082519	Cistrome_4129	RELA	Immunoglobulin fold	Cell Line	Detroit_562
+chr1	168082175	168082558	Cistrome_4134	RELA	Immunoglobulin fold	Cell Line	Detroit_562
+chr1	168082287	168082560	Cistrome_4135	RELA	Immunoglobulin fold	Cell Line	Detroit_562
+chr1	168082095	168082490	Cistrome_4137	RELA	Immunoglobulin fold	Cell Line	Detroit_562
+chr1	168082154	168082464	Cistrome_4208	TCF12	Basic domains	Cell Line	ECC-1
+chr1	168082165	168082500	Cistrome_4217	MAX	Basic domains	Cell Line	ECC-1
+chr1	168082293	168082501	Cistrome_4220	EP300	ENCODE: TF	Cell Line	ECC-1
+chr1	168082335	168082487	Cistrome_4221	USF1	Basic domains	Cell Line	ECC-1
+chr1	168082163	168082531	Cistrome_4225	NFIC	beta-Hairpin exposed by an alpha/beta-scaffold	Cell Line	ECC-1
+chr1	168082025	168082200	Cistrome_4228	YY1	Zinc-coordinating DNA-binding domains	Cell Line	ECC-1
+chr1	168082366	168082515	Cistrome_4228	YY1	Zinc-coordinating DNA-binding domains	Cell Line	ECC-1
+chr1	168082259	168082537	Cistrome_4231	TEAD4	Helix-turn-helix domains	Cell Line	ECC-1
+chr1	168082270	168082436	Cistrome_4233	TP63	Immunoglobulin fold	Cell Line	EP156T
+chr1	168082208	168082496	Cistrome_4251	KLF9	Zinc-coordinating DNA-binding domains	Cell Line	GBM1A
+chr1	168081740	168081938	Cistrome_4262	ATF3	Basic domains	Cell Line	GM00739
+chr1	168082105	168082295	Cistrome_4263	TP53	Immunoglobulin fold	Cell Line	GM06170
+chr1	168082161	168082454	Cistrome_4271	TP53	Immunoglobulin fold	Cell Line	GM06993-GM11992
+chr1	168082186	168082574	Cistrome_4336	RELA	Immunoglobulin fold	Cell Line	GM12891
+chr1	168082222	168082555	Cistrome_4346	RELA	Immunoglobulin fold	Cell Line	GM12891
+chr1	168082285	168082472	Cistrome_4347	RELA	Immunoglobulin fold	Cell Line	GM12891
+chr1	168082295	168082451	Cistrome_4430	RELA	Immunoglobulin fold	Cell Line	GM18951
+chr1	168082214	168082580	Cistrome_4532	MAX	Basic domains	Cell Line	H128
+chr1	168082253	168082453	Cistrome_4533	POLR2A	ENCODE: TF	Cell Line	H128
+chr1	168082260	168082505	Cistrome_4534	MAX	Basic domains	Cell Line	H128
+chr1	168082187	168082480	Cistrome_4540	MAX	Basic domains	Cell Line	H2171
+chr1	168082154	168082578	Cistrome_4541	MAX	Basic domains	Cell Line	H2171
+chr1	168082229	168082440	Cistrome_4544	POLR2A	ENCODE: TF	Cell Line	H2171
+chr1	168082003	168082162	Cistrome_4590	SPIB	Helix-turn-helix domains	Cell Line	H929
+chr1	168082153	168082487	Cistrome_4591	TP63	Immunoglobulin fold	Cell Line	HaCaT
+chr1	168082064	168082508	Cistrome_4592	TP63	Immunoglobulin fold	Cell Line	HaCaT
+chr1	168082110	168082603	Cistrome_4593	TP63	Immunoglobulin fold	Cell Line	HaCaT
+chr1	168082201	168082540	Cistrome_4594	TP63	Immunoglobulin fold	Cell Line	HaCaT
+chr1	168082252	168082538	Cistrome_4620	STAT3	Immunoglobulin fold	Cell Line	HCC70
+chr1	168082225	168082447	Cistrome_4621	STAT3	Immunoglobulin fold	Cell Line	HCC70
+chr1	168082250	168082509	Cistrome_4625	TP63	Immunoglobulin fold	Cell Line	HCC95
+chr1	168082365	168082651	Cistrome_4672	ZNF263	Zinc-coordinating DNA-binding domains	Cell Line	HEK293T
+chr1	168082912	168083064	Cistrome_4672	ZNF263	Zinc-coordinating DNA-binding domains	Cell Line	HEK293T
+chr1	168082308	168082454	Cistrome_4732	POLR2A	ENCODE: TF	Cell Line	HL-60
+chr1	168082242	168082499	Cistrome_5008	TP63	Immunoglobulin fold	Cell Line	JHU-029
+chr1	168082268	168082484	Cistrome_5013	JUN	Basic domains	Cell Line	JHU-06
+chr1	168082297	168082520	Cistrome_5014	JUN	Basic domains	Cell Line	JHU-06
+chr1	168082298	168082428	Cistrome_5017	JUN	Basic domains	Cell Line	JHU-06
+chr1	168082346	168082473	Cistrome_5018	JUN	Basic domains	Cell Line	JHU-06
+chr1	168082283	168082524	Cistrome_5019	JUN	Basic domains	Cell Line	JHU-06
+chr1	168082295	168082490	Cistrome_5024	RELA	Immunoglobulin fold	Cell Line	JHU-06
+chr1	168082326	168082456	Cistrome_5025	RELA	Immunoglobulin fold	Cell Line	JHU-06
+chr1	168082218	168082467	Cistrome_5027	RELA	Immunoglobulin fold	Cell Line	JHU-06
+chr1	168082262	168082461	Cistrome_5134	TP63	Immunoglobulin fold	Cell Line	KYSE-70
+chr1	168082321	168082456	Cistrome_5135	NFKB1	Immunoglobulin fold	Cell Line	L1236
+chr1	168082231	168082474	Cistrome_5138	NFKB1	Immunoglobulin fold	Cell Line	L1236
+chr1	168082271	168082465	Cistrome_5141	NFKB2	Immunoglobulin fold	Cell Line	L1236
+chr1	168082292	168082473	Cistrome_5142	NFKB2	Immunoglobulin fold	Cell Line	L1236
+chr1	168082210	168082513	Cistrome_5192	AR	Zinc-coordinating DNA-binding domains	Cell Line	LHSAR
+chr1	168082276	168082559	Cistrome_5193	AR	Zinc-coordinating DNA-binding domains	Cell Line	LHSAR
+chr1	168082255	168082511	Cistrome_5717	STAT3	Immunoglobulin fold	Cell Line	MCF-10A
+chr1	168082298	168082455	Cistrome_5725	STAT3	Immunoglobulin fold	Cell Line	MCF-10A
+chr1	168082230	168082571	Cistrome_5727	FOS	Basic domains	Cell Line	MCF-10A
+chr1	168082231	168082482	Cistrome_5729	MYC	Basic domains	Cell Line	MCF-10A
+chr1	168082255	168082511	Cistrome_5730	STAT3	Immunoglobulin fold	Cell Line	MCF-10A
+chr1	168082266	168082447	Cistrome_5731	POLR2A	ENCODE: TF	Cell Line	MCF-10A
+chr1	168082270	168082540	Cistrome_5732	FOS	Basic domains	Cell Line	MCF-10A
+chr1	168082252	168082555	Cistrome_5733	FOS	Basic domains	Cell Line	MCF-10A
+chr1	168082298	168082454	Cistrome_5734	STAT3	Immunoglobulin fold	Cell Line	MCF-10A
+chr1	168082242	168082573	Cistrome_5735	FOS	Basic domains	Cell Line	MCF-10A
+chr1	168082234	168082507	Cistrome_5736	MYC	Basic domains	Cell Line	MCF-10A
+chr1	168082149	168082394	Cistrome_5738	POLR2A	ENCODE: TF	Cell Line	MCF-10A
+chr1	168082314	168082473	Cistrome_5739	MYC	Basic domains	Cell Line	MCF-10A
+chr1	168082361	168082589	Cistrome_5763	NR3C1	Zinc-coordinating DNA-binding domains	Cell Line	MCF-10A
+chr1	168082270	168082556	Cistrome_5775	POLR2A	ENCODE: TF	Cell Line	MCF-10A
+chr1	168082172	168082458	Cistrome_5779	NR3C1	Zinc-coordinating DNA-binding domains	Cell Line	MCF-10A
+chr1	168082309	168082480	Cistrome_5804	STAT3	Immunoglobulin fold	Cell Line	MDA-MB-157
+chr1	168082204	168082442	Cistrome_5805	STAT3	Immunoglobulin fold	Cell Line	MDA-MB-157
+chr1	168082086	168082379	Cistrome_5807	POLR2A	ENCODE: TF	Cell Line	MDA-MB-436
+chr1	168082291	168082439	Cistrome_5808	TCF7L2	Other all-alpha-helical DNA-binding domains	Cell Line	MDA-MB-453
+chr1	168082275	168082462	Cistrome_5809	FOXA1	Helix-turn-helix domains	Cell Line	MDA-MB-453
+chr1	168082153	168082451	Cistrome_5811	MYC	Basic domains	Cell Line	MDA-MB-453
+chr1	168082123	168082407	Cistrome_5825	TFAP2C	Basic domains	Cell Line	MDA-MB-453
+chr1	168082278	168082588	Cistrome_5843	FOSL1	Basic domains	Cell Line	MG-63
+chr1	168082155	168082581	Cistrome_5844	FOS	Basic domains	Cell Line	MG-63
+chr1	168082294	168082459	Cistrome_5974	FOXA1	Helix-turn-helix domains	Cell Line	NCI-H3122
+chr1	168082286	168082534	Cistrome_5975	NKX2-1	Helix-turn-helix domains	Cell Line	NCI-H3122
+chr1	168082276	168082424	Cistrome_5977	SMAD3	beta-Hairpin exposed by an alpha/beta-scaffold	Cell Line	NCI-H441
+chr1	168082311	168082555	Cistrome_5978	SMAD3	beta-Hairpin exposed by an alpha/beta-scaffold	Cell Line	NCI-H441
+chr1	168082193	168082534	Cistrome_5979	TTF1	Helix-turn-helix domains	Cell Line	NCI-H441
+chr1	168082196	168082555	Cistrome_5980	TTF1	Helix-turn-helix domains	Cell Line	NCI-H441
+chr1	168082226	168082508	Cistrome_6041	GRHL2	Immunoglobulin fold	Cell Line	OVCA429
+chr1	168082361	168082498	Cistrome_6081	GRHL2	Immunoglobulin fold	Cell Line	PEO1
+chr1	168082303	168082463	Cistrome_6088	REST	Zinc-coordinating DNA-binding domains	Cell Line	PFSK-1
+chr1	168082298	168082494	Cistrome_6097	AR	Zinc-coordinating DNA-binding domains	Cell Line	R1-AD1
+chr1	168082286	168082456	Cistrome_6116	SOX2	Other all-alpha-helical DNA-binding domains	Cell Line	ReN-VM
+chr1	168082161	168082647	Cistrome_6152	TP53	Immunoglobulin fold	Cell Line	Saos-2
+chr1	168082193	168082559	Cistrome_6153	TP73	Immunoglobulin fold	Cell Line	Saos-2
+chr1	168082279	168082524	Cistrome_6154	TP73	Immunoglobulin fold	Cell Line	Saos-2
+chr1	168082268	168082527	Cistrome_6155	TP73	Immunoglobulin fold	Cell Line	Saos-2
+chr1	168082275	168082450	Cistrome_6156	TP73	Immunoglobulin fold	Cell Line	Saos-2
+chr1	168082172	168082721	Cistrome_6158	TP53	Immunoglobulin fold	Cell Line	Saos-2
+chr1	168082059	168082467	Cistrome_6198	TP53	Immunoglobulin fold	Cell Line	SJSA
+chr1	168082149	168082486	Cistrome_6200	TFAP2C	Basic domains	Cell Line	SKBR-3
+chr1	168082292	168082581	Cistrome_6233	JUND	Basic domains	Cell Line	SK-N-SH
+chr1	168081973	168082202	Cistrome_6239	YY1	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH
+chr1	168082266	168082465	Cistrome_6239	YY1	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH
+chr1	168082151	168082527	Cistrome_6240	NFIC	beta-Hairpin exposed by an alpha/beta-scaffold	Cell Line	SK-N-SH
+chr1	168082214	168082535	Cistrome_6243	FOSL2	Basic domains	Cell Line	SK-N-SH
+chr1	168082288	168082668	Cistrome_6244	USF1	Basic domains	Cell Line	SK-N-SH
+chr1	168082243	168082493	Cistrome_6245	TEAD4	Helix-turn-helix domains	Cell Line	SK-N-SH
+chr1	168082131	168082520	Cistrome_6246	MAX	Basic domains	Cell Line	SK-N-SH
+chr1	168082241	168082525	Cistrome_6248	JUND	Basic domains	Cell Line	SK-N-SH
+chr1	168082173	168082508	Cistrome_6250	POLR2A	ENCODE: TF	Cell Line	SK-N-SH
+chr1	168082241	168082488	Cistrome_6251	EP300	ENCODE: TF	Cell Line	SK-N-SH
+chr1	168082012	168082198	Cistrome_6255	PBX3	Helix-turn-helix domains	Cell Line	SK-N-SH
+chr1	168082272	168082751	Cistrome_6255	PBX3	Helix-turn-helix domains	Cell Line	SK-N-SH
+chr1	168082176	168082610	Cistrome_6256	REST	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH
+chr1	168082254	168082492	Cistrome_6258	GATA3	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH
+chr1	168082159	168082664	Cistrome_6259	TCF12	Basic domains	Cell Line	SK-N-SH
+chr1	168082256	168082696	Cistrome_6280	EP300	ENCODE: TF	Cell Line	SK-N-SH_RA
+chr1	168082312	168082496	Cistrome_6281	YY1	Zinc-coordinating DNA-binding domains	Cell Line	SK-N-SH_RA
+chr1	168082276	168082422	Cistrome_6282	USF1	Basic domains	Cell Line	SK-N-SH_RA
+chr1	168082227	168082524	Cistrome_6310	EP300	ENCODE: TF	Cell Line	SUM159PT
+chr1	168082409	168082621	Cistrome_6461	POLR2A	ENCODE: TF	Cell Line	TIVE-LTC
+chr1	168082309	168082505	Cistrome_6487	SOX2	Other all-alpha-helical DNA-binding domains	Cell Line	TT
+chr1	168082255	168082456	Cistrome_6488	TP63	Immunoglobulin fold	Cell Line	TT
+chr1	168082096	168082632	Cistrome_6491	SMARCB1	TcoF: TF	Cell Line	TTC1240
+chr1	168082277	168082423	Cistrome_6585	SETDB1	ENCODE: TF	Cell Line	WM262

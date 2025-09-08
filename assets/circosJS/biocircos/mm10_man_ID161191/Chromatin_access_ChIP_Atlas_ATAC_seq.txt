@@ -1,0 +1,25 @@
+chr11	16850903	16851435	ERX6376048	113	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic adenocarcinoma
+chr11	16850982	16851286	SRX18943520	179	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic cancer cells
+chr11	16851044	16851272	SRX2852936	220	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic organoid
+chr11	16851045	16851264	SRX18943515	95	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic cancer cells
+chr11	16851081	16851268	SRX8893870	227	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic ductal adenocarcinoma
+chr11	16851092	16851245	SRX14461724	107	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreas
+chr11	16851092	16851294	SRX11470404	204	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic epithelial cells
+chr11	16851100	16851293	SRX8893869	321	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic ductal adenocarcinoma
+chr11	16851105	16851247	SRX9607968	138	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreas
+chr11	16851105	16851273	SRX18943517	132	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic cancer cells
+chr11	16851106	16851242	SRX16113781	173	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic ductal adenocarcinoma
+chr11	16851106	16851277	SRX2852937	139	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic organoid
+chr11	16851110	16851233	SRX9607967	154	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreas
+chr11	16851110	16851235	SRX14461725	121	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreas
+chr11	16851111	16851275	SRX18943519	91	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic cancer cells
+chr11	16851113	16851267	SRX18943516	159	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic cancer cells
+chr11	16851118	16851252	SRX16113777	137	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic ductal adenocarcinoma
+chr11	16851120	16851269	SRX2852935	159	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic organoid
+chr11	16851138	16851256	SRX18943518	161	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic cancer cells
+chr11	16851141	16851261	SRX9607965	135	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreas
+chr11	16851142	16851256	SRX4061602	80	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic ductal adenocarcinoma
+chr11	16851142	16851268	SRX4061601	105	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic ductal adenocarcinoma
+chr11	16851148	16851228	SRX19303382	83	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic acinar cells
+chr11	16851152	16851254	SRX14461726	115	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreas
+chr11	16851157	16851250	SRX16113779	133	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic ductal adenocarcinoma

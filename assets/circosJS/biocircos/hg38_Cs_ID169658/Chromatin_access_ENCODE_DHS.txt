@@ -1,0 +1,20 @@
+chr7	55214255	55214405	51	body of pancreas	tissue	
+chr7	55213875	55214025	69	Peyer's patch	tissue	
+chr7	55214335	55214485	100	Peyer's patch	tissue	
+chr7	55214135	55214285	39	adrenal gland	tissue	
+chr7	55213855	55214005	42	breast epithelium	tissue	
+chr7	55214295	55214445	37	breast epithelium	tissue	
+chr7	55213901	55214051	83	bipolar neuron	in vitro differentiated cells	doxycycline hyclate
+chr7	55214415	55214565	69	tibial nerve	tissue	
+chr7	55214095	55214245	34	esophagus muscularis mucosa	tissue	
+chr7	55214315	55214465	39	esophagus muscularis mucosa	tissue	
+chr7	55213795	55213945	99	gastrocnemius medialis	tissue	
+chr7	55214295	55214445	89	gastrocnemius medialis	tissue	
+chr7	55214295	55214445	54	thyroid gland	tissue	
+chr7	55213815	55213965	45	tibial artery	tissue	
+chr7	55214375	55214525	49	tibial artery	tissue	
+chr7	55213835	55213985	36	sigmoid colon	tissue	
+chr7	55214275	55214425	51	sigmoid colon	tissue	
+chr7	55213881	55214031	40	heart left ventricle	tissue	
+chr7	55214031	55214181	41	heart left ventricle	tissue	
+chr7	55214275	55214425	75	heart left ventricle	tissue	

@@ -1,0 +1,37 @@
+chr9	83101706	83102169	SRX6437838	623	mm10	TFs and others	Fosl1	Pancreas	Pancreatic adenocarcinoma
+chr9	83101708	83102463	SRX4578564	743	mm10	TFs and others	Smad2	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83101932	83102154	SRX4578561	144	mm10	TFs and others	Epitope tags	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102222	83102404	SRX4578558	107	mm10	TFs and others	Smad2	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102951	83103320	SRX8026860	265	mm10	TFs and others	Klf5	Pancreas	Pancreatic adenocarcinoma
+chr9	83102955	83103251	SRX8026862	200	mm10	TFs and others	Klf5	Pancreas	Pancreatic adenocarcinoma
+chr9	83102955	83103315	SRX8026863	451	mm10	TFs and others	Klf5	Pancreas	Pancreatic adenocarcinoma
+chr9	83102968	83103312	SRX4578564	263	mm10	TFs and others	Smad2	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83102975	83103335	SRX8026861	402	mm10	TFs and others	Klf5	Pancreas	Pancreatic adenocarcinoma
+chr9	83102976	83103167	SRX4578567	115	mm10	TFs and others	Smad2	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103027	83103247	SRX1163236	148	mm10	TFs and others	Smad2	Pancreas	Pancreatic cancer cell lines
+chr9	83103046	83103242	SRX1149716	140	mm10	TFs and others	Klf5	Pancreas	Pancreatic cancer cell lines
+chr9	83103743	83104156	SRX445035	1000	mm10	TFs and others	Foxa2	Pancreas	Pancreatic beta cells
+chr9	83103773	83104174	SRX8026866	1000	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr9	83103795	83104222	SRX6437841	910	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr9	83103810	83104186	SRX6437839	799	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr9	83103811	83104197	SRX8026867	893	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr9	83103812	83104196	SRX8026865	791	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr9	83103821	83104193	SRX8026864	1000	mm10	TFs and others	Foxa2	Pancreas	Pancreatic adenocarcinoma
+chr9	83103841	83104103	SRX4578564	690	mm10	TFs and others	Smad2	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103847	83104129	SRX2853287	1000	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103847	83104136	SRX445033	1000	mm10	TFs and others	Insm1	Pancreas	Pancreatic beta cells
+chr9	83103855	83104150	SRX6437850	515	mm10	TFs and others	Junb	Pancreas	Pancreatic adenocarcinoma
+chr9	83103868	83104096	SRX2853324	398	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103870	83104058	SRX1163236	186	mm10	TFs and others	Smad2	Pancreas	Pancreatic cancer cell lines
+chr9	83103870	83104133	SRX2853323	837	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103875	83104138	SRX2853291	1000	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103876	83104095	SRX4578567	357	mm10	TFs and others	Smad2	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103878	83104118	SRX2853321	255	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103879	83104128	SRX2853322	687	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103885	83104121	SRX2853289	717	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103893	83104098	SRX445034	288	mm10	TFs and others	Neurod1	Pancreas	Pancreatic beta cells
+chr9	83103894	83104105	SRX2853288	436	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103905	83104125	SRX2853292	517	mm10	TFs and others	Foxa1	Pancreas	Pancreatic ductal adenocarcinoma
+chr9	83103912	83104107	SRX23146058	187	mm10	TFs and others	Smad2	Pancreas	Pancreatic cancer cells
+chr9	83103915	83104061	SRX1163237	104	mm10	TFs and others	Smad2	Pancreas	Pancreatic cancer cell lines
+chr9	83103924	83104164	SRX6437838	201	mm10	TFs and others	Fosl1	Pancreas	Pancreatic adenocarcinoma

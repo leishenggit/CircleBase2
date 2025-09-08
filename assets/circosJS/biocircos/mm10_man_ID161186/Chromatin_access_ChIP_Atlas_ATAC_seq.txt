@@ -1,0 +1,1 @@
+chr11	16843527	16843693	SRX11470404	100	mm10	ATAC-Seq	ATAC-Seq	Pancreas	Pancreatic epithelial cells

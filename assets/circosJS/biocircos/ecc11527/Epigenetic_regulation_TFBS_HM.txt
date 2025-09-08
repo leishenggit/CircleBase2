@@ -1,0 +1,21 @@
+chr1	243770018	243770292	ENCODE_0913	ZNF585B	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	243769986	243770311	ENCODE_0914	ZNF585B	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	243770001	243770690	ChIP-Atlas_1240	ZFX	Zinc-coordinating DNA-binding domains	Cell Line	293
+chr1	243770112	243770520	Cistrome_3343	PGR	Zinc-coordinating DNA-binding domains	Cell Line	T-47D
+chr1	243770240	243770687	Cistrome_0956	NR3C1	Zinc-coordinating DNA-binding domains	Primary Cel	macrophage
+chr1	243770258	243770584	Cistrome_0868	TRIM28	ENCODE: TF	Stem Cel	Embryonic_stem_cells
+chr1	243769789	243770611	GTRD_0030	WT1	Zinc-coordinating DNA-binding domains	Cell Line	K562
+chr1	243770075	243770294	Cistrome_3704	SETDB1	ENCODE: TF	Cell Line	HeLa-S3
+chr1	243770369	243770625	Cistrome_3704	SETDB1	ENCODE: TF	Cell Line	HeLa-S3
+chr1	243770043	243770595	ChIP-Atlas_1312	SSRP1	Other all-alpha-helical DNA-binding domains	Cell Line	HT1080
+chr1	243770144	243770295	ENCODE_0616	ELF1	Helix-turn-helix domains	Cell Line	GM12878
+chr1	243770079	243770256	Cistrome_0732	TRIM28	ENCODE: TF	Cell Line	H1
+chr1	243770244	243770390	Cistrome_1125	FOXA2	Helix-turn-helix domains	Cell Line	CyT49
+chr1	243770025	243770151	Cistrome_3614	ZNF675	Zinc-coordinating DNA-binding domains	Cell Line	293Trex
+chr1	243770008	243770717	Cistrome_2480	ZFX	Zinc-coordinating DNA-binding domains	Cell Line	C4-2B
+chr1	243769942	243770191	Cistrome_1483	TFAP2A	Basic domains	Other	Neural_crest_cell
+chr1	243770060	243770311	Cistrome_4236	FLI1	Helix-turn-helix domains	Cell Line	EWS502
+chr1	243770023	243770316	Cistrome_5737	POLR2A	ENCODE: TF	Cell Line	MCF-10A
+chr1	243770377	243770703	Cistrome_5737	POLR2A	ENCODE: TF	Cell Line	MCF-10A
+chr1	243770103	243770293	Cistrome_5811	MYC	Basic domains	Cell Line	MDA-MB-453
+chr1	243769980	243770258	Cistrome_6580	TRIM28	ENCODE: TF	Cell Line	WIBR3

@@ -1,0 +1,12 @@
+chr1	0	302600	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:237800-540400
+chr1	0	302800	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:237800-540600
+chr1	0	326600	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:237800-564400
+chr1	0	326800	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:237800-564600
+chr1	0	327600	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:237800-565400
+chr1	283800	302600	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:521600-540400
+chr1	283800	302800	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:521600-540600
+chr1	283800	303000	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:521600-540800
+chr1	283800	326600	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:521600-564400
+chr1	283800	326800	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:521600-564600
+chr1	283800	327600	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:521600-565400
+chr1	283800	329000	#CD8500	source: Regulatory_element_ChromHMM<br>coordinate: chr1:521600-566800

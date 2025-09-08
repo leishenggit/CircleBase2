@@ -1,0 +1,2 @@
+rs2072454	chr7	55214348	C	T	8.80E-05	Diabetic retinopathy	EGFR	cds-synon	21441570
+rs2072454	chr7	55214348	C	T	2.00E-05	Prostate cancer	EGFR	cds-synon	21743057

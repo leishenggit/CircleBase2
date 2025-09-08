@@ -1,0 +1,185 @@
+chr1	168082275	168082425	309	HK-2	cell line	
+chr1	168082315	168082465	366	Ishikawa	cell line	dimethyl sulfoxide
+chr1	168081395	168081545	44	coronary artery	tissue	
+chr1	168081775	168081925	28	coronary artery	tissue	
+chr1	168082295	168082445	72	coronary artery	tissue	
+chr1	168083428	168083578	12	coronary artery	tissue	
+chr1	168083578	168083728	10	coronary artery	tissue	
+chr1	168082295	168082445	133	CD4-positive, alpha-beta T cell	primary cell	
+chr1	168082315	168082465	145	GM10248	cell line	
+chr1	168082315	168082465	170	fibroblast of mammary gland	primary cell	
+chr1	168082275	168082425	238	T-helper 1 cell	primary cell	
+chr1	168082315	168082465	31	fibroblast of skin of abdomen	primary cell	
+chr1	168082295	168082445	78	MCF-7	cell line	estradiol
+chr1	168082295	168082445	67	common myeloid progenitor, CD34-positive	primary cell	
+chr1	168082295	168082445	94	left cardiac atrium	tissue	
+chr1	168082295	168082445	417	fibroblast of skin of upper back	primary cell	
+chr1	168082354	168082504	10	GM12864	cell line	
+chr1	168082275	168082425	415	endothelial cell of umbilical vein	primary cell	
+chr1	168081384	168081534	14	islet precursor cell	in vitro differentiated cells	
+chr1	168082275	168082425	828	islet precursor cell	in vitro differentiated cells	
+chr1	168082335	168082485	50	non-pigmented ciliary epithelial cell	primary cell	
+chr1	168082275	168082425	144	body of pancreas	tissue	
+chr1	168083475	168083625	44	Peyer's patch	tissue	
+chr1	168082295	168082445	90	GM03348	cell line	
+chr1	168082297	168082447	117	K562	cell line	sodium butyrate
+chr1	168082275	168082425	176	natural killer cell	primary cell	
+chr1	168082295	168082445	1059	cardiac muscle cell	primary cell	
+chr1	168082275	168082425	1085	fibroblast of skin of scalp	primary cell	
+chr1	168082275	168082425	143	epidermal melanocyte	primary cell	
+chr1	168082275	168082425	254	placenta	tissue	
+chr1	168082295	168082445	321	foreskin fibroblast	primary cell	
+chr1	168082295	168082445	129	thymus	tissue	
+chr1	168082295	168082445	395	fibroblast of skin of right quadriceps	primary cell	
+chr1	168081375	168081525	16	esophagus squamous epithelium	tissue	
+chr1	168081835	168081985	26	esophagus squamous epithelium	tissue	
+chr1	168082275	168082425	142	esophagus squamous epithelium	tissue	
+chr1	168083435	168083585	21	esophagus squamous epithelium	tissue	
+chr1	168082315	168082465	61	HeLa-S3	cell line	interferon alpha
+chr1	168082295	168082445	1081	Daoy	cell line	
+chr1	168082295	168082445	531	skeletal muscle myoblast	primary cell	
+chr1	168082315	168082465	35	HCT116	cell line	
+chr1	168082288	168082438	101	neural progenitor cell	in vitro differentiated cells	
+chr1	168082315	168082465	66	epithelial cell of proximal tubule	primary cell	
+chr1	168082295	168082445	219	lung	tissue	
+chr1	168082295	168082445	102	retinal pigment epithelial cell	primary cell	
+chr1	168082315	168082465	53	stromal cell of bone marrow	primary cell	
+chr1	168082275	168082425	354	tongue	tissue	
+chr1	168082295	168082445	66	CD1c-positive myeloid dendritic cell	primary cell	
+chr1	168082295	168082445	148	naive thymus-derived CD4-positive, alpha-beta T cell	primary cell	
+chr1	168082275	168082425	43	smooth muscle cell of the brain vasculature	primary cell	
+chr1	168082315	168082465	659	iris pigment epithelial cell	primary cell	
+chr1	168082255	168082405	70	large intestine	tissue	
+chr1	168082314	168082464	64	frontal cortex	tissue	
+chr1	168082286	168082436	22	GM04504	cell line	
+chr1	168082275	168082425	381	C803	cell line	
+chr1	168082275	168082425	54	left lung	tissue	
+chr1	168082369	168082519	14	Jurkat clone E61	cell line	
+chr1	168082295	168082445	39	AG04449	cell line	
+chr1	168082295	168082445	2056	MCF 10A	cell line	tamoxifen
+chr1	168082295	168082445	106	fibroblast of villous mesenchyme	primary cell	
+chr1	168082295	168082445	37	WI38	cell line	
+chr1	168082315	168082465	367	amniotic epithelial cell	primary cell	
+chr1	168082295	168082445	189	Ishikawa	cell line	17β-estradiol
+chr1	168082315	168082465	967	fibroblast of lung	primary cell	
+chr1	168082315	168082465	477	urothelium cell line	cell line	
+chr1	168082275	168082425	409	breast epithelium	tissue	
+chr1	168082295	168082445	148	HTR-8/SVneo	cell line	
+chr1	168082315	168082465	94	PC-9	cell line	
+chr1	168082295	168082445	254	MCF-7	cell line	
+chr1	168082295	168082445	579	fibroblast of skin of right biceps	primary cell	
+chr1	168082275	168082425	79	KBM-7	cell line	
+chr1	168082295	168082445	1135	fibroblast of pulmonary artery	primary cell	
+chr1	168082295	168082445	60	urinary bladder	tissue	
+chr1	168082315	168082465	402	astrocyte	primary cell	
+chr1	168082295	168082445	202	CD14-positive monocyte	primary cell	
+chr1	168082315	168082465	70	fibroblast of dermis	primary cell	
+chr1	168082295	168082445	304	mesendoderm	in vitro differentiated cells	
+chr1	168082295	168082445	46	fibroblast of skin of left quadriceps	primary cell	
+chr1	168082315	168082465	113	A549	cell line	
+chr1	168082343	168082493	43	T-helper 17 cell	primary cell	
+chr1	168082275	168082425	124	AG20443	cell line	
+chr1	168082275	168082425	76	NT2/D1	cell line	
+chr1	168082295	168082445	855	EL	cell line	
+chr1	168082292	168082442	49	kidney	tissue	
+chr1	168082315	168082465	444	COLO829	cell line	
+chr1	168082275	168082425	83	bipolar neuron	in vitro differentiated cells	doxycycline hyclate
+chr1	168082295	168082445	2646	epithelial cell of esophagus	primary cell	
+chr1	168082295	168082445	1363	cardiac fibroblast	primary cell	
+chr1	168082275	168082425	65	trophoblast cell	primary cell	
+chr1	168081382	168081532	15	vagina	tissue	
+chr1	168081855	168082005	25	vagina	tissue	
+chr1	168082275	168082425	83	vagina	tissue	
+chr1	168082315	168082465	1421	bronchial epithelial cell	primary cell	
+chr1	168082280	168082430	59	liver	tissue	
+chr1	168082275	168082425	100	T-cell	primary cell	
+chr1	168082295	168082445	179	AG08395	cell line	
+chr1	168082275	168082425	131	osteoblast	primary cell	
+chr1	168082315	168082465	188	HPDE6-E6E7	cell line	
+chr1	168082296	168082446	36	WI38	cell line	afimoxifene
+chr1	168082243	168082393	139	ascending aorta	tissue	
+chr1	168082315	168082465	803	dermis microvascular lymphatic vessel endothelial cell	primary cell	
+chr1	168082315	168082465	102	epithelial cell of prostate	primary cell	
+chr1	168082295	168082445	1230	dermis blood vessel endothelial cell	primary cell	
+chr1	168082295	168082445	258	fibroblast of peridontal ligament	primary cell	
+chr1	168082295	168082445	1334	foreskin keratinocyte	primary cell	
+chr1	168082275	168082425	32	cardiac myoblast	in vitro differentiated cells	Activin A, Bone morphogenetic protein 4, Fibroblast growth factor 2
+chr1	168082315	168082465	131	iPS-NIHi7	cell line	
+chr1	168082315	168082465	763	renal cortical epithelial cell	primary cell	
+chr1	168082295	168082445	68	bronchial epithelial cell	primary cell	retinoic acid
+chr1	168082275	168082425	86	CD8-positive, alpha-beta T cell	primary cell	
+chr1	168082295	168082445	48	cardiac muscle cell	in vitro differentiated cells	Activin A, Bone morphogenetic protein 4, Fibroblast growth factor 2
+chr1	168082290	168082440	68	right lung	tissue	
+chr1	168082275	168082425	106	HAP-1	cell line	
+chr1	168082315	168082465	32	mammary epithelial cell	primary cell	
+chr1	168082295	168082445	644	astrocyte of the spinal cord	primary cell	
+chr1	168082255	168082405	48	muscle of leg	tissue	
+chr1	168082315	168082465	485	RWPE1	cell line	
+chr1	168082275	168082425	156	heart right ventricle	tissue	
+chr1	168082295	168082445	1755	astrocyte of the hippocampus	primary cell	
+chr1	168082295	168082445	615	choroid plexus epithelial cell	primary cell	
+chr1	168082255	168082405	146	eye	tissue	
+chr1	168082282	168082432	54	small intestine	tissue	
+chr1	168082315	168082465	204	iPS-NIHi11	cell line	
+chr1	168083391	168083541	12	iPS-NIHi11	cell line	
+chr1	168082295	168082445	89	fibroblast of gingiva	primary cell	
+chr1	168082295	168082445	355	GM12865	cell line	
+chr1	168082295	168082445	355	mesenchymal stem cell	in vitro differentiated cells	
+chr1	168082616	168082766	34	mesenchymal stem cell	in vitro differentiated cells	
+chr1	168082315	168082465	105	kidney epithelial cell	primary cell	
+chr1	168082302	168082452	97	GM03348	cell line	doxycycline
+chr1	168082281	168082431	94	femur	tissue	
+chr1	168082295	168082445	40	fibroblast of the conjunctiva	primary cell	
+chr1	168082295	168082445	2177	M059J	cell line	
+chr1	168082295	168082445	74	iPS DF 19.11	cell line	
+chr1	168082275	168082425	156	L1-S8R	cell line	
+chr1	168082275	168082425	98	spinal cord	tissue	
+chr1	168082275	168082425	116	left leg bone	tissue	
+chr1	168082308	168082458	179	K562	cell line	vorinostat
+chr1	168082279	168082429	35	MCF-7	cell line	lactate
+chr1	168082315	168082465	168	GM12878	cell line	
+chr1	168082295	168082445	191	Ishikawa	cell line	afimoxifene
+chr1	168082283	168082433	78	GM23338	cell line	
+chr1	168082295	168082445	103	astrocyte of the cerebellum	primary cell	
+chr1	168082295	168082445	247	hematopoietic multipotent progenitor cell	in vitro differentiated cells	interleukin-3, kit ligand, hydrocortisone succinate, erythropoietin
+chr1	168082315	168082465	203	AG08396	cell line	
+chr1	168082275	168082425	346	heart	tissue	
+chr1	168082295	168082445	74	brain microvascular endothelial cell	primary cell	
+chr1	168082380	168082530	40	testis	tissue	
+chr1	168082275	168082425	773	foreskin melanocyte	primary cell	
+chr1	168082295	168082445	31	HFF-Myc	cell line	
+chr1	168082275	168082425	1240	thyroid gland	tissue	
+chr1	168082315	168082465	81	T-helper 2 cell	primary cell	
+chr1	168082295	168082445	62	myotube	in vitro differentiated cells	
+chr1	168081375	168081525	39	tibial artery	tissue	
+chr1	168082235	168082385	66	tibial artery	tissue	
+chr1	168083446	168083596	13	tibial artery	tissue	
+chr1	168083612	168083762	16	tibial artery	tissue	
+chr1	168082295	168082445	1284	SK-MEL-5	cell line	
+chr1	168082315	168082465	114	hepatic stellate cell	primary cell	
+chr1	168082275	168082425	106	dedifferentiated amniotic fluid mesenchymal stem cell	primary cell	
+chr1	168082275	168082425	194	NAMALWA	cell line	Sendai virus
+chr1	168082255	168082405	36	SK-N-MC	cell line	
+chr1	168082315	168082465	103	keratinocyte	primary cell	
+chr1	168082315	168082465	558	IMR-90	cell line	
+chr1	168082295	168082445	52	pulmonary artery endothelial cell	primary cell	
+chr1	168082315	168082465	143	H54	cell line	
+chr1	168082295	168082445	454	ELR	cell line	
+chr1	168082295	168082445	720	fibroblast of the aortic adventitia	primary cell	
+chr1	168082295	168082445	151	HEK293T	cell line	
+chr1	168082295	168082445	35	AG04450	cell line	
+chr1	168082586	168082736	24	right atrium auricular region	tissue	
+chr1	168082295	168082445	118	NB4	cell line	
+chr1	168082315	168082465	60	HFFc6	cell line	
+chr1	168082275	168082425	39	HS-27A	cell line	
+chr1	168082295	168082445	265	stomach	tissue	
+chr1	168082335	168082485	79	GM10266	cell line	
+chr1	168082278	168082428	44	trophoblast cell	in vitro differentiated cells	
+chr1	168082275	168082425	49	BE2C	cell line	
+chr1	168082315	168082465	959	lung microvascular endothelial cell	primary cell	
+chr1	168082295	168082445	449	GM23248	cell line	
+chr1	168082295	168082445	77	AG10803	cell line	
+chr1	168082295	168082445	36	brain pericyte	primary cell	
+chr1	168082295	168082445	94	hematopoietic multipotent progenitor cell	in vitro differentiated cells	
+chr1	168082315	168082465	44	glomerular endothelial cell	primary cell	
+chr1	168082295	168082445	358	hepatocyte	in vitro differentiated cells	

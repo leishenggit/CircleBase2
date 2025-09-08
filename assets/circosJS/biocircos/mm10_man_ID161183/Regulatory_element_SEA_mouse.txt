@@ -1,0 +1,3 @@
+237548	chr11	16758925	16878488	mm10_EF_chr11_16758925	119563	embryonic_fibroblast	-	-	Egfr	h3k27ac	SE	coding
+339806	chr11	16831591	16844685	mm10_stomach_chr11_16831591	13094	stomach	-	-	Egfr	h3k27ac	E	coding
+419504	chr11	16838518	16839371	mm10_CH12.LX_chr11_16838518	853	CH12.LX	-	-	Egfr	p300	E	coding
