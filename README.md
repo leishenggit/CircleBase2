@@ -19,7 +19,7 @@ tips: Anaconda is always a good choice to install the dependencies.
 4. Genetic_variant.bed [download](http://circlebase2.maolab.org/assets/data/get_score/Genetic_variant.bed.gz)
 5. Regulatory_elements.bed [download](http://circlebase2.maolab.org/assets/data/get_score/Regulatory_elements.bed.gz)
 6. Targeting_genes.bed [download](http://circlebase2.maolab.org/assets/data/get_score/Targeting_genes.bed.gz)
-7. eccDNA_core.mm10.bed [download](http://circlebase2.maolab.org/assets/data/get_score/eccDNA_core.mm10.bed.gz)
+7. eccDNA_core.hg19.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/eccDNA_core.hg19.bed.gz)
 
 ### Supplementary files: chromosome-specific density of regulatory elements
 1. stat.Chromatin_access.bed [download](http://circlebase2.maolab.org/assets/data/get_score/stat.Chromatin_access.bed.gz)
@@ -65,7 +65,7 @@ Same as human, see above
 2. Epigenetic_regulation.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/Epigenetic_regulation.bed.gz)
 3. Genetic_variant.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/Genetic_variant.bed.gz)
 4. Regulatory_elements.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/Regulatory_elements.bed.gz)
-5. eccDNA_core.hg19.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/eccDNA_core.hg19.bed.gz)
+5. eccDNA_core.mm10.bed [download](http://circlebase2.maolab.org/assets/data/get_score/eccDNA_core.mm10.bed.gz)
 
 ### Supplementary files: chromosome-specific density of regulatory elements
 1. stat.Chromatin_access.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/stat.Chromatin_access.bed.gz)
