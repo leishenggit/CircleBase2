@@ -3,10 +3,10 @@ set -e
 
 
 #Step-1: get the number of annotated hits (records) for each eccDNA in each regulatory category
-for f in Chromatin_access.bed  Chromatin_interaction.bed  Epigenetic_regulation.bed  Genetic_variant.bed  Regulatory_elements.bed  Targeting_genes.bed
+for f in Chromatin_access.bed Epigenetic_regulation.bed  Genetic_variant.bed  Regulatory_elements.bed 
 do
 	echo "Starting bedtools intersect for $f"
-	bedtools intersect -c  -a  eccDNA_core.hg19.bed -b $f > hits.stat.$f
+	bedtools intersect -c  -a  eccDNA_core.mm10.bed -b $f > hits.stat.$f
 	echo "Finish $f"
 done
 
