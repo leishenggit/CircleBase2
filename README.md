@@ -13,21 +13,21 @@ An Integrated Platform for eccDNA Annotation Across Cancers and Species. Also se
 tips: Anaconda is always a good choice to install the dependencies.
 
 ### Input files: bed files for the six regulatory categories and eccDNAs
-1. Chromatin_access.bed [download](http://circlebase2.maolab.org/assets/data/get_score/Chromatin_access.bed.gz)
-2. Chromatin_interaction.bed [download](http://circlebase2.maolab.org/assets/data/get_score/Chromatin_interaction.bed.gz)
-3. Epigenetic_regulation.bed [download](http://circlebase2.maolab.org/assets/data/get_score/Epigenetic_regulation.bed.gz)
-4. Genetic_variant.bed [download](http://circlebase2.maolab.org/assets/data/get_score/Genetic_variant.bed.gz)
-5. Regulatory_elements.bed [download](http://circlebase2.maolab.org/assets/data/get_score/Regulatory_elements.bed.gz)
-6. Targeting_genes.bed [download](http://circlebase2.maolab.org/assets/data/get_score/Targeting_genes.bed.gz)
-7. eccDNA_core.hg19.bed [download](http://circlebase2.maolab.org/assets/data/get_score/eccDNA_core.hg19.bed.gz)
+1. Chromatin_access.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/Chromatin_access.bed.gz)
+2. Chromatin_interaction.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/Chromatin_interaction.bed.gz)
+3. Epigenetic_regulation.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/Epigenetic_regulation.bed.gz)
+4. Genetic_variant.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/Genetic_variant.bed.gz)
+5. Regulatory_elements.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/Regulatory_elements.bed.gz)
+6. Targeting_genes.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/Targeting_genes.bed.gz)
+7. eccDNA_core.hg19.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/eccDNA_core.hg19.bed.gz)
 
 ### Supplementary files: chromosome-specific density of regulatory elements
-1. stat.Chromatin_access.bed [download](http://circlebase2.maolab.org/assets/data/get_score/stat.Chromatin_access.bed.gz)
-2. stat.Chromatin_interaction.bed [download](http://circlebase2.maolab.org/assets/data/get_score/stat.Chromatin_interaction.bed.gz)
-3. stat.Epigenetic_regulation.bed [download](http://circlebase2.maolab.org/assets/data/get_score/stat.Epigenetic_regulation.bed.gz)
-4. stat.Genetic_variant.bed [download](http://circlebase2.maolab.org/assets/data/get_score/stat.Genetic_variant.bed.gz)
-5. stat.Regulatory_elements.bed [download](http://circlebase2.maolab.org/assets/data/get_score/stat.Regulatory_elements.bed.gz)
-6. stat.Targeting_genes.bed [download](http://circlebase2.maolab.org/assets/data/get_score/stat.Targeting_genes.bed.gz)
+1. stat.Chromatin_access.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/stat.Chromatin_access.bed.gz)
+2. stat.Chromatin_interaction.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/stat.Chromatin_interaction.bed.gz)
+3. stat.Epigenetic_regulation.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/stat.Epigenetic_regulation.bed.gz)
+4. stat.Genetic_variant.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/stat.Genetic_variant.bed.gz)
+5. stat.Regulatory_elements.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/stat.Regulatory_elements.bed.gz)
+6. stat.Targeting_genes.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score/stat.Targeting_genes.bed.gz)
 
 
 ### How to run
@@ -52,7 +52,7 @@ tips: Anaconda is always a good choice to install the dependencies.
 1. eccDNA id.
 2. Average of normalized scores for all six regulatory categories.
 
-You can download all output [here](http://circlebase2.maolab.org/assets/data/get_score/score_system_result.tar.gz)
+You can download all output [here](http://circlebasev2.beyondthe.top:580/assets/data/get_score/score_system_result.tar.gz)
 
 
 
@@ -61,17 +61,17 @@ You can download all output [here](http://circlebase2.maolab.org/assets/data/get
 Same as human, see above
 
 ### Input files: bed file for the four regulatory categories and eccDNAs
-1. Chromatin_access.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/Chromatin_access.bed.gz)
-2. Epigenetic_regulation.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/Epigenetic_regulation.bed.gz)
-3. Genetic_variant.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/Genetic_variant.bed.gz)
-4. Regulatory_elements.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/Regulatory_elements.bed.gz)
-5. eccDNA_core.mm10.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/eccDNA_core.mm10.bed.gz)
+1. Chromatin_access.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/Chromatin_access.bed.gz)
+2. Epigenetic_regulation.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/Epigenetic_regulation.bed.gz)
+3. Genetic_variant.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/Genetic_variant.bed.gz)
+4. Regulatory_elements.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/Regulatory_elements.bed.gz)
+5. eccDNA_core.mm10.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/eccDNA_core.mm10.bed.gz)
 
 ### Supplementary files: chromosome-specific density of regulatory elements
-1. stat.Chromatin_access.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/stat.Chromatin_access.bed.gz)
-2. stat.Epigenetic_regulation.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/stat.Epigenetic_regulation.bed.gz)
-3. stat.Genetic_variant.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/stat.Genetic_variant.bed.gz)
-4. stat.Regulatory_elements.bed [download](http://circlebase2.maolab.org/assets/data/get_score_mouse/stat.Regulatory_elements.bed.gz)
+1. stat.Chromatin_access.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/stat.Chromatin_access.bed.gz)
+2. stat.Epigenetic_regulation.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/stat.Epigenetic_regulation.bed.gz)
+3. stat.Genetic_variant.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/stat.Genetic_variant.bed.gz)
+4. stat.Regulatory_elements.bed [download](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/stat.Regulatory_elements.bed.gz)
 
 
 ### How to run
@@ -96,5 +96,5 @@ Same as human, see above
 1. eccDNA id.
 2. Average of normalized scores for all six regulatory categories.
 
-You can download all output [here](http://circlebase2.maolab.org/assets/data/get_score_mouse/score_system_result.tar.gz)
+You can download all output [here](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/score_system_result.tar.gz)
 
