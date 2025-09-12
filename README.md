@@ -50,7 +50,7 @@ tips: Anaconda is always a good choice to install the dependencies.
  
 - final.score.txt file is the final result we want. Here are the fields:
 1. eccDNA id.
-2. Average of normalized scores for all six regulatory categories. download [here](http://circlebasev2.beyondthe.top:580/assets/data/get_score/final.score.gz)
+2. Average of normalized scores for all six regulatory categories. download [here](http://circlebasev2.beyondthe.top:580/assets/data/get_score/final.score.txt.gz)
 
 
 
@@ -94,6 +94,6 @@ Same as human, see above
  
 - final.score.txt file is the final result we want. Here are the fields:
 1. eccDNA id.
-2. Average of normalized scores for all four regulatory categories. download [here](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/final.score.gz)
+2. Average of normalized scores for all four regulatory categories. download [here](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/final.score.txt.gz)
 
 
