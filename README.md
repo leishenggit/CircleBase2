@@ -80,8 +80,8 @@ Same as human, see above
 3. Run the *run.sh* shell script
 
 ### Output
-- hits.stat.* files are annotated hits (records) count for each eccDNA in six regulatory categories. The last field is the count number.
-- *.score files include score for each eccDNA corresponding Gaussian mode in six regulatory categories. Here are the fields:
+- hits.stat.* files are annotated hits (records) count for each eccDNA in four regulatory categories. The last field is the count number.
+- *.score files include score for each eccDNA corresponding Gaussian mode in four regulatory categories. Here are the fields:
 1. eccDNA id.
 2. Chromosome to which the eccDNA belongs.
 3. Hits number for the eccDNA.
@@ -94,6 +94,6 @@ Same as human, see above
  
 - final.score.txt file is the final result we want. Here are the fields:
 1. eccDNA id.
-2. Average of normalized scores for all six regulatory categories. download [here](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/final.score.gz)
+2. Average of normalized scores for all four regulatory categories. download [here](http://circlebasev2.beyondthe.top:580/assets/data/get_score_mouse/final.score.gz)
 
 
