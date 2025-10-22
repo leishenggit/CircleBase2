@@ -6,7 +6,7 @@ set -e
 for f in Chromatin_access.bed Epigenetic_regulation.bed  Genetic_variant.bed  Regulatory_elements.bed 
 do
 	echo "Starting bedtools intersect for $f"
-	bedtools intersect -c  -a  eccDNA_core.mm10.bed -b $f > hits.stat.$f
+	bedtools intersect -c -f 0.5 -F 0.5 -e -a  eccDNA_core.mm10.bed -b $f > hits.stat.$f
 	echo "Finish $f"
 done
 
