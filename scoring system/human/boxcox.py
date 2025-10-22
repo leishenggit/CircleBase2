@@ -34,9 +34,8 @@ def get_score(chromo, taxonomy, idx, idx2, idx3, out_f):
 
 
 
-def get_score_1(chromos, taxonomy, idx, idx2, idx3, out_f):
+def get_score_1(records, idx, idx2, idx3, out_f):
 	# running
-	records = [line for line in taxonomy if line[idx] in chromos]
 	hits = [float(line[idx2])+1 for line in records]
 	y, lambda0 = stats.boxcox(hits)
 	u = np.mean(y)
@@ -57,9 +56,8 @@ if __name__ == "__main__":
 	with open(args.table) as f: taxonomy = [l.strip().split('\t') for l in f]
 	if args.head: del taxonomy[0]
 	idx, idx2, idx3 = args.chromosome - 1, args.hits - 1, args.ecc - 1
-	chromos = ['chr'+str(i) for i in range(1,23)]
-	chromos.extend(['chrX', 'chrY'])
 	if args.by_chr:
+		chromos = [l[idx] for l in taxonomy]
 		p = Pool()
 		for chromo in chromos:
 			out_f = args.out_f + '.' + chromo
@@ -67,6 +65,6 @@ if __name__ == "__main__":
 		p.close()
 		p.join()
 	else:
-		get_score_1(chromos, taxonomy, idx, idx2, idx3, args.out_f)
+		get_score_1(taxonomy, idx, idx2, idx3, args.out_f)
 
 
